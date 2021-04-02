@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="/assets/css/styles.css">
   {% feed_meta %}
   {% seo %}
+  <script src="/assets/js/background.js"></script>
   <!-- Google Tag Manager -->
   <script>
     dataLayer = [];
@@ -26,27 +27,18 @@
   <!-- End Google Tag Manager (noscript) -->
 
   <header class="clearfix">
-    <h1>Meet with Ace Gayhart</h1>
-    <img src="Ace.png" alt="Picture of Ace">
-    <p>Schedule a virtual meeting or phone call with Ace Gayhart to discuss homework assignments, IT careers, technology, or life in general.</p>
-    <p><strong>Note:</strong> I am currently located in the
-      <a href="https://www.timeanddate.com/worldclock/usa/cleveland" target="_blank">Eastern Time Zone</a> (Northeast Ohio).
-      When scheduling, make sure that you pick <em>your</em> time zone to see what works best with
-      your schedule.  In addition, double check the time on your confirmation email.</p>
+    <h1>Ace Gayhart</h1>
+    <img src="/assets/images/Ace.png" alt="Picture of Ace">
+    <p>Thank you for the visit!  I am still working both on theming and migrating old blog entries.  Your patience is most appreciated.</p> 
+  {% include navigation.html %}
   </header>
 
-  <aside id="asideAlert">
-  <h2>Physical Distancing</h2>
-    <p><i class="fad fa-2x fa-biohazard fa-pull-left fa-spin" style="animation-duration: 10s;"></i>
-      <i class="fad fa-2x fa-head-side-mask fa-pull-right fa-flip-horizontal"></i>
-      Due to the
-      <a href="https://coronavirus.gov/" target="_blank" title="CDC Coronavirus Information">Coronavirus</a>
-      pandemic and the shift to remote work, in-person meetings are not practical.  In addition,
-      meeting times are limited to 30 minutes to accommodate the increase in virtual meeting requests.</p>
-  </aside>
 
-  
-  {% include navigation.html %}
+
+  <main>  
   {{ content }}
+  </main>
+  
+  <footer>Copyright &copy; {{ site.time | date: '%Y' }} <a href="/">Ace Gayhart</a></footer>
 </body>
 </html>
