@@ -1,14 +1,52 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    {% feed_meta %}
-    {% seo %}
-  </head>
-  <body>
-    {% include navigation.html %}
-    {{ content }}
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  {% feed_meta %}
+  {% seo %}
+  <!-- Google Tag Manager -->
+  <script>
+    dataLayer = [];
+  </script>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MXJ6VW5');</script>
+  <!-- End Google Tag Manager -->  
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXJ6VW5"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <header class="clearfix">
+    <h1>Meet with Ace Gayhart</h1>
+    <img src="Ace.png" alt="Picture of Ace">
+    <p>Schedule a virtual meeting or phone call with Ace Gayhart to discuss homework assignments, IT careers, technology, or life in general.</p>
+    <p><strong>Note:</strong> I am currently located in the
+      <a href="https://www.timeanddate.com/worldclock/usa/cleveland" target="_blank">Eastern Time Zone</a> (Northeast Ohio).
+      When scheduling, make sure that you pick <em>your</em> time zone to see what works best with
+      your schedule.  In addition, double check the time on your confirmation email.</p>
+  </header>
+
+  <aside id="asideAlert">
+  <h2>Physical Distancing</h2>
+    <p><i class="fad fa-2x fa-biohazard fa-pull-left fa-spin" style="animation-duration: 10s;"></i>
+      <i class="fad fa-2x fa-head-side-mask fa-pull-right fa-flip-horizontal"></i>
+      Due to the
+      <a href="https://coronavirus.gov/" target="_blank" title="CDC Coronavirus Information">Coronavirus</a>
+      pandemic and the shift to remote work, in-person meetings are not practical.  In addition,
+      meeting times are limited to 30 minutes to accommodate the increase in virtual meeting requests.</p>
+  </aside>
+
+  
+  {% include navigation.html %}
+  {{ content }}
+</body>
 </html>
