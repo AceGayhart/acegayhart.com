@@ -1,6 +1,6 @@
 ---
 title: Let the Blogging Begin
-date: 2003-08-27 19:48:27 
+date: 2003-08-27 07:48:27 PM
 tag: Old Site
 ---
 
