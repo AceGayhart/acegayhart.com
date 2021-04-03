@@ -1,16 +1,58 @@
 ---
 title: Home Page
 ---
-
+<main>
 <h1>Latests posts</h1>
-<div class="posts">
-{% for post in site.posts %}
-  <article class="post">
-    {{ post.date  }} | <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>    
-    <div class="entry">
-      {{ post.excerpt }}
-    </div>  
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-  </article>
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+    <strong>{{ post.title }}</strong> <span style="font-size:smaller;">({{ post.date | date: "%B %e, %Y %r" }})</span><br/>  
+    {{ post.excerpt }} 
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read this article →</a>
+<br/> <br/>  <br/> 
 {% endfor %}
-</div> 
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+
+
+<!-- <h2>Tags</h2>
+<ul>
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+    <li>
+      <a href="/tags/#{{t | downcase | replace:' ','-' }}">
+        {{t | downcase | replace:' ','-' }}
+        <span>({{  posts | size }})</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul> -->
+</main>
