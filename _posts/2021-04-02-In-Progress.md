@@ -1,6 +1,7 @@
 ---
 title: In Progress
 date: 2021-04-02 05:29:26 PM
+category: Blogging
 ---
 I am still working on my blog.  In fact, my to-do list keeps getting longer:
 
