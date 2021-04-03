@@ -3,13 +3,10 @@ layout: default
 title: Archive
 ---
 
-<!-- Begin List Posts
-================================================== -->
-<section class="recent-posts">
-<div class="section-title mt-2">
+<main>
+
+
     <h2>Archive of posts from <span>{{ page.type }} '{{ page.title }}'</span></h2>
-</div>
-<div class="row listrecent">
 
 {% for post in site.posts %}
 {% assign postyear = post.date | date: "%Y" %}
@@ -21,3 +18,6 @@ title: Archive
 
 </div>
 </section>
+
+
+</main>

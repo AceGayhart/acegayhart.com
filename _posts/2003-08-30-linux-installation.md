@@ -1,6 +1,7 @@
 ---
 title: Linux Installation
-date: 2003-08-30 06:09:22 PM EST
+date: 2003-08-30 06:09:22 PM
+tag: Old Site
 ---
 
 Finally, after spending a day or so trying to get the installation discs downloaded, I am ready to install. Since this is my first Linux installation, I decided to use Red Hat's version. I figured that since Red Hat is apparently fairly well known I should not have too much problem getting support.
