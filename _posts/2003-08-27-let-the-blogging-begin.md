@@ -1,6 +1,7 @@
 ---
 title: Let the Blogging Begin
-date: 2003-08-27 19:48:27 -0400
+date: 2003-08-27 19:48:27 
+tag: Old Site
 ---
 
 Okay, I know what you're thinking (actually, I don't, but you could let me know). Why create a blog? Well, why not? I've got some free time. Maybe *someone* finds my life interesting. :)
