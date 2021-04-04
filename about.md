@@ -12,5 +12,5 @@ Ace holds a Master of Science in Information Systems & Technology Management fro
 
 It should go without saying, but *this is a personal blog*.  Ace's views and opinions are his own.  They do not represent the opinions of people, institutions, or organizations that Ace may or may not be associated with personally or professionally.  Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.
 
-For more details, please [view our disclaimer](/Disclaimer/).
+For more details, please [view our disclaimer](/disclaimer/).
 
