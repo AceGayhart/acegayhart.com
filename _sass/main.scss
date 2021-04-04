@@ -20,6 +20,8 @@
   --shadow: grey;
 }
 
+html { background: var(--pageBackground)}
+
 body {
   margin-left: auto;
   margin-right: auto;
@@ -119,6 +121,7 @@ footer {
     padding: 3px;
     margin-bottom: 0.5em;
     border-radius: 0.25em;
+    text-align: left;
   }
 }
 

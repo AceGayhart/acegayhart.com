@@ -3,7 +3,19 @@ layout: default
 ---
 <main>
 <h1>{{ page.title }}</h1>
+<div class="pagination">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}">&laquo; Older</a>
+  {% else %}
+    <span>&laquo; Older</span>
+  {% endif %}
 
+  {% if page.next %}
+    <a href="{{ page.next.url }}">Newer &raquo;</a>
+  {% else %}
+    <span>Newer &raquo;</span>
+  {% endif %}
+</div>
 <p>Posted:  <strong>{{ page.date | date: "%B %e, %Y %r" }}</strong></p>
 
 {{ content }}
@@ -13,12 +25,14 @@ layout: default
 
 {% assign sorted_tags = page.tags | sort %}
 {% if sorted_tags.size > 0 %}
-    Tagged:
+<p style="font-size: smaller;">
+    Tags:
     {% for tag in sorted_tags %}        
         [{{tag | downcase | replace:' ','-' }}]         
 
         
     {% endfor %}
+</p>
 {% endif %}
 
 
