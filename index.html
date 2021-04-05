@@ -3,7 +3,7 @@ layout: default
 title: Home Page
 ---
 <main>
-<h1>Latests posts</h1>
+<h1>Latest Posts</h1>
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
@@ -40,20 +40,4 @@ title: Home Page
   {% endif %}
 </div>
 {% endif %}
-
-
-<!-- <h2>Tags</h2>
-<ul>
-  {% assign sorted_tags = site.tags | sort %}
-  {% for tag in sorted_tags %}
-    {% assign t = tag | first %}
-    {% assign posts = tag | last %}
-    <li>
-      <a href="/tags/#{{t | downcase | replace:' ','-' }}">
-        {{t | downcase | replace:' ','-' }}
-        <span>({{  posts | size }})</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul> -->
 </main>

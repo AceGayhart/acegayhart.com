@@ -32,7 +32,29 @@
   </header>
 
   {{ content }}
+  <aside id="Archives">
+    <h1>Archives</h1>
+    <h2>By Year</h2>
+    
+      {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+      {% for year in postsByYear %}<span class="archive-item"><a href="/year/{{ year.name }}">{{ year.name }}</a></span>{% endfor %}
   
+      <h2>By Category</h2>
+      {% assign sorted_categories = site.categories |  sort %}
+      {% for category in sorted_categories %}
+      {% assign c = category | first %}
+      {% assign posts = category | last %}
+      <span class="archive-item"><a href="/category/{{c | downcase | replace:' ','-' }}">{{c | downcase | replace:' ','-' }} ({{  posts | size }})</a></span>
+      {% endfor %}
+  
+      <h2>By Tag</h2>
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
+      {% assign t = tag | first %}
+      {% assign posts = tag | last %}
+      <span class="archive-item"><a href="/tag/{{t | downcase | replace:' ','-' }}">{{t | downcase | replace:' ','-' }} ({{  posts | size }})</a></span>
+      {% endfor %}
+  </aside>
   <footer>&copy;Copyright <a href="/">Ace Gayhart</a> 2003&ndash;{{ site.time | date: '%Y' }}.  All Rights Reserved</footer>
 </body>
 </html>

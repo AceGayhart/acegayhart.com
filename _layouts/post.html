@@ -22,15 +22,25 @@ layout: default
 
 
 
+{% assign sorted_categories = page.categories | sort %}
+{% if sorted_categories.size > 0 %}
+<p style="font-size: smaller;">
+    Categories:
+    {% for category in sorted_categories %}        
+        [<a href="/category/{{category | downcase | replace:' ','-' }}">{{category | downcase | replace:' ','-' }}</a>]
+
+    {% endfor %}
+</p>
+{% endif %}
+
 
 {% assign sorted_tags = page.tags | sort %}
 {% if sorted_tags.size > 0 %}
 <p style="font-size: smaller;">
     Tags:
     {% for tag in sorted_tags %}        
-        [{{tag | downcase | replace:' ','-' }}]         
+        [<a href="/tag/{{tag | downcase | replace:' ','-' }}">{{tag | downcase | replace:' ','-' }}</a>]
 
-        
     {% endfor %}
 </p>
 {% endif %}

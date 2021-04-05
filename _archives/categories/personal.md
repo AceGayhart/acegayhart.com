@@ -1,6 +1,6 @@
 ---
-title: personal
-category: "personal"
+title: Personal
+category: "Personal"
 layout: archive-categories
 permalink: "category/personal"
 ---

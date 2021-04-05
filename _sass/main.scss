@@ -31,6 +31,7 @@ body {
   grid-template-areas:
     "header"
     "main"
+    "archives"
     "footer";
 }
 
@@ -88,6 +89,14 @@ header img {
 
 main { grid-area: main; }
 
+#archives { grid-area: archives;}
+
+  
+.archive-item {
+  white-space: nowrap;
+  margin-right: 0.25em;
+}
+
 footer {
   color: var(--onPrimary);
   background-color: var(--primaryDark);
@@ -97,7 +106,7 @@ footer {
 }
 
 @media all and (min-width: 600px) {
-  header, main, footer {
+  header, main, aside, footer {
     border: 2px solid var(--border);
     border-radius: 0.5em;
     margin: 0.5em;
@@ -128,8 +137,13 @@ footer {
 @media all and (min-width: 800px) {
   body {
     margin: 1em auto;
-    grid-template-columns: 1fr;
+    grid-template-areas:
+      "header header"
+      "main archives"
+      "footer footer";
+    grid-template-columns: 1fr 0.25fr;
   }
+
   header img {
     height: 150px;
     width: 150px;

@@ -1,7 +1,7 @@
 ---
 title: Registration
 date: 2021-04-03 05:47:36 PM 
-category: personal
+category: Personal
 tags:
     - home life
 ---
