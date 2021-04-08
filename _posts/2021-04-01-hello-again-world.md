@@ -1,6 +1,8 @@
 ---
 title: Hello (Again) World
 date: 2021-04-01 01:17:17 PM
+category: Blogging
+tag: blogging
 ---
 
 I started blogging back in 2003 after moving from Northern California to Northeast Ohio.  Since I was suddenly working from home, I felt the need to fill the time spent commuting.  Of course, it didn't hurt to share how I was doing with my friends back home.  Working in IT since 1994, I thought it was the thing to do.  In reality, I was likely quite lonely.

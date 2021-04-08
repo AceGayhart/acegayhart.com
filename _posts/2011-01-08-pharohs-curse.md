@@ -1,9 +1,8 @@
 ---
 title: Pharaoh's Curse
 date: 2011-01-08 09:19 PM
-tags:
-    - Old Site
-    - Gaming
+tag: gaming
+category: Old Site
 ---
 
 After nearly a quarter century, I have beat Pharaoh's Curse! But, I am getting ahead of myself.

@@ -72,6 +72,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      tag: "untagged"
+      category: "Uncategorized"
   - scope:
       path: ""
     values:

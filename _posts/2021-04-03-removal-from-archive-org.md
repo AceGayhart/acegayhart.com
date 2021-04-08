@@ -2,7 +2,7 @@
 title: Removal from Archive.org
 date: 2021-04-03 02:22:39 PM 
 category: Blogging
-tag: Blogging
+tag: blogging
 ---
 
 I like the [Wayback Machine](https://archive.org/).  It has saved me multiple times when researching an issue only to find that the website is defunct.  But, after deprecating my old site, silverjaguar.com, I wasn't sure if I wanted to have my old posts stay up there.  Perhaps if it was a complete archive, I might have left it there.  Since it wasn't, I decided to remove it.

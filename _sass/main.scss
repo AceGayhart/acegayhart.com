@@ -26,7 +26,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1em;
-  max-width: 1060px;
+  max-width: 100ch;
   display: grid;
   grid-template-areas:
     "header"
@@ -141,7 +141,7 @@ footer {
       "header header"
       "main archives"
       "footer footer";
-    grid-template-columns: 1fr 0.25fr;
+    grid-template-columns: 65ch 1fr;
   }
 
   header img {

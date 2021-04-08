@@ -1,7 +1,7 @@
 ---
 title: ValueWeb Rant
 date: 2003-08-28 02:05:32 PM
-tag: Old Site
+category: Old Site
 ---
 
 I use ValueWeb as my web hosting company. Normally, I don't have any problems with them. This week is different:

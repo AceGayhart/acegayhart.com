@@ -7,11 +7,7 @@ title: Home Page
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-    <strong>{{ post.title }}</strong> <span style="font-size:smaller;">({{ post.date | date: "%B %e, %Y %r" }})</span><br/>  
-    {{ post.excerpt }} 
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read this article →</a>
-<br/> <br/>  <br/> 
+{% include postbox.html %}
 {% endfor %}
 
 <!-- Pagination links -->
