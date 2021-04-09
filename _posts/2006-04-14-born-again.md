@@ -2,6 +2,7 @@
 title: Born Again
 date: 2006-04-14 05:10:50 PM
 category: Old Site
+tag: untagged
 ---
 
 A week or so ago, I left my dinosaur plant by the window for some much needed sunlight. Unfortunately, for the plant, I left the window open all night. When I checked on it the next day, it had shriveled up. I left the plant like that for a week before I added some water. Within a few hours, it opened up again and looks as good as new.

@@ -2,6 +2,7 @@
 title: Fastrak Violations Aren't My Fault
 date: 2003-09-09 12:48:27 PM
 category: Old Site
+tag: untagged
 ---
 
 FasTrak, for those that don't know, is California's Electronic Toll System. Basically, you can pay in advance for tolls, and your vehicle will be tracked automatically at the toll plazas. It's nice for people who cross through toll booths often. It's generally cheaper and you don't have to stop to pay. FasTrak users get their own lanes. If a non-FasTrak user drives through a FasTrak-only lane, the system takes a picture of your rear license plate (front license plates aren't required in California) and mails you a violation notice.

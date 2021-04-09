@@ -2,6 +2,7 @@
 title: First Ornament And Karoke
 date: 2003-11-10 10:34:33 PM
 category: Old Site
+tag: untagged
 ---
 
 We put our first ornament on our tree. It says "First Christmas In Our New Home 2003". I think that this was very appropriate for our first ornament. The rest of the ornaments, however, will most likely be Tigger-related.

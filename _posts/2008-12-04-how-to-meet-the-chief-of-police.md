@@ -2,6 +2,7 @@
 title: How To Meet The Chief Of Police
 date: 2008-12-04 07:23:00 PM
 category: Old Site
+tag: untagged
 ---
 
 On Monday, I was reviewing transactions on my bank's website. I noticed two charges at a local gas station that totaled over $540! I knew that they did not belong to me. I know gas is expensive, but I have never spent that much at a gas station in one day. As it was past banking hours, I had to call my bank on Tuesday. They closed our account. They also mentioned that whoever stole our information also tried to charge our account another time at a different gas station.

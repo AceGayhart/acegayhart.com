@@ -2,6 +2,7 @@
 title: Abcdefghijkmnopqrstuvwxyz
 date: 2005-12-28 12:22:10 PM
 category: Old Site
+tag: untagged
 ---
 
 Hi, I hope that everyone had good Christmas or whatever holiday (or holidays) that you celebrate. This year's holiday season was dampened both by the recent loss of my father-in-law Ken and the theft of our Christmas decorations. Nevertheless, both Rachel and I had a good time.

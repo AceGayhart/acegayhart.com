@@ -2,6 +2,7 @@
 title: Dinosaur Plant
 date: 2006-03-06 11:49:13 AM
 category: Old Site
+tag: untagged
 ---
 
 I have wanted a plant for my home office for quite awhile now. However, as I do not have much of a "green thumb" I decided to get something simple. I found a "dinosaur plant" online. It only grows to be about four inches, so it should not get out of hand. In addition, it can go without water for years. When it lacks water, it curls up into a ball to preserve its moisture. Moreover, as it essentially sits in a bowl of water, I do not have to worry about over or under watering.

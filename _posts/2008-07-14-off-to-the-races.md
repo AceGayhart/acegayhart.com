@@ -2,6 +2,7 @@
 title: Off To The Races
 date: 2008-07-14 08:39:00 AM
 category: Old Site
+tag: untagged
 ---
 
 After a few months of being without my treadmill, it is finally up and running again. My mishap a few months ago fried the main circuit board. Last week a replacement board arrived. I think it took about an hour to swap out the boards, re-lubricate the running deck, and put all the covers in place. I am looking forward to jogging again.

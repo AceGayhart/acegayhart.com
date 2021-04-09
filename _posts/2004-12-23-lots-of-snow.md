@@ -2,6 +2,7 @@
 title: Lots Of Snow
 date: 2004-12-23 05:26:59 PM
 category: Old Site
+tag: untagged
 ---
 
 I do not mind shoveling snow, however today was a bit of a pain. It had been snowing quite a bit yesterday. We had shoveled our driveway twice as well as shoving my parents-in-law's driveway twice. Overnight, we got at least a foot of snow. We were almost unable to open our back door (my parents-in-law were unable to open their front door). We tried shoveling for a bit, but the process was too tiring and inefficient. Fortunately, we have a small electric snow blower. It is not the greatest, but after two hours of work, we were able to get the driveway cleared.

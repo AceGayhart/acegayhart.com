@@ -2,6 +2,7 @@
 title: Central Air
 date: 2004-07-06 03:07:58 PM
 category: Old Site
+tag: untagged
 ---
 
 We recently got central air installed. Previously we had two window units; one was in our bedroom and the other was in my office. The upstairs one worked great. Unfortunately, since it was close to my desk it was rather loud; I had to turn it off anytime I needed to talk on the phone. Also, it completely blocked the light that would have come through my window. Last night we removed the window units. It was so nice to work this morning with the natural ambient sunlight, instead of using a ceiling light. It will also be nice to see sunsets again. Of course, this will only last while the weather's good.

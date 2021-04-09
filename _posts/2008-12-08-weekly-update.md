@@ -2,6 +2,7 @@
 title: Weekly Update
 date: 2008-12-08 01:43:00 PM
 category: Old Site
+tag: untagged
 ---
 
 It has been a busy past few days. On Wednesday, I started my next school term. This term I am taking IT350: SQL, IT274: Intermediate C#, and EL205: Prior Learning Assessment (PLA) II. The PLA classes, I hope, will let me earn credits for experience. If I earn all the credits I am attempting, I knock out six classes.

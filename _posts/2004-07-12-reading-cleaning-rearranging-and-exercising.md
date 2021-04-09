@@ -2,6 +2,7 @@
 title: Reading, Cleaning, Rearranging And Exercising
 date: 2004-07-12 09:32:51 AM
 category: Old Site
+tag: untagged
 ---
 
 In case you haven't noticed, I've been doing a lot of reading recently. To that end, I've created a web page that tracks what I'm reading, what I've read, and what I'm about to read. If you're curious about any of the books, click on the book link to find out more. On a related note, if you purchase any of the books that are on my list, I get a small commission.

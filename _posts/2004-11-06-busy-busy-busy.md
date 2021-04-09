@@ -2,6 +2,7 @@
 title: Busy, Busy, Busy
 date: 2004-11-06 11:58:24 PM
 category: Old Site
+tag: untagged
 ---
 
 (This is a long entry so please bear with me). This week has been extremely busy. But, as it is nearly midnight, the week is fortunately almost over. On Sunday, Rachel and I handed out candy for Halloween. One of the things that I like about our neighborhood is that there are set times for trick-or-treating. This year, the kids were allowed to go out between 6:00 PM and 8:00 PM. We got our first kid shortly after 6:00 PM. Forty-five minutes and thirty pounds of candy later, we were all out of candy. Unfortunately, we had to turn some people away. Next year, we'll need to hold some more of the candy in reserve so that we don't have to turn people away. My favorite costume this year was that of a Presidential candidate.

@@ -2,6 +2,7 @@
 title: Suspended License
 date: 2004-09-05 07:39:50 PM
 category: Old Site
+tag: untagged
 ---
 
 This has been a rather long weekend. Rachel got a notice from the Ohio BMV (Bureau of Motor Vehicles) on Friday saying that her driver's license is suspended. After some investigation, I found the problem: Apparently, she was supposed to submit medical papers to the BMV every six months stating that it is okay for her to drive (because of her diabetes). Anyway, either we did not get the forms from the BMV or we misplaced them. Therefore, I have been her chauffer for the last couple of days and I will probably continue to do so for at least another week.

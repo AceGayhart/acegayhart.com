@@ -2,6 +2,7 @@
 title: Back From Vacation
 date: 2004-11-20 10:21:40 PM
 category: Old Site
+tag: untagged
 ---
 
 I have been on vacation this past week. Rachel and I went up to Casino Windsor to celebrate our third wedding anniversary. The trip there took about four hours. The major delay was the route we took. Instead of taking the Ohio Turnpike most of the way there, we took Route 2. Route 2 follows Lake Erie's shoreline for the most part. The scenery was nice, but had I known that the speed limit would drop from 65 to 35, I wouldn't have taken Route 2. Even after getting delayed at the border and stopping for food and gas, it only took us about three hours to get home. Now we know which way to go in the future.

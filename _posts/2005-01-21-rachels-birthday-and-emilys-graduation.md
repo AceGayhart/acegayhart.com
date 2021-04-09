@@ -2,6 +2,7 @@
 title: Rachel's Birthday And Emily's Graduation
 date: 2005-01-21 11:40:13 AM
 category: Old Site
+tag: untagged
 ---
 
 On Tuesday, Rachel and I decided to do some shopping. I had run out of paper in the midst of a printing job. Also, we decided to spend the gift cards that we received during Christmas. We went to Best Buy to pick up a couple reams of paper. Rachel got a copy of Roller Coaster Tycoon 3 (for her birthday). Then, we went to Waldenbooks (I was almost starting to run out of books to read). We picked up a couple of 2005 calendars at a calendar store. Lastly, we had a nice meal at Bennigan's. I had never been there, as the parking lot always looks full. In retrospect, most of the cars probably belonged to employees of the nearby Staples. Now that I know we can order takeout from there, we might go more often.

@@ -2,6 +2,7 @@
 title: Working On Vacation
 date: 2005-09-21 02:11:14 AM
 category: Old Site
+tag: untagged
 ---
 
 Rachel and I again had breakfast at the local cafe before I headed to the office. I spent four hours there working and talking with my coworkers. Around lunchtime, I said that I would treat the office to lunch if they would figure out a place to eat. After debating for about fifteen minutes, I made an executive decision and said that we would get food from Chevy's. I was in the mood for Tex-Mex and Chevy's had been a regular eating spot for all of us.

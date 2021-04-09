@@ -2,6 +2,7 @@
 title: Thermal Shock
 date: 2008-12-02 08:54:00 AM
 category: Old Site
+tag: untagged
 ---
 
 On Sunday night, I was upstairs programming when I heard Rachel call me from downstairs. I hurried downstairs to see what the problem was. She pointed to the candle warmer on the living room table.

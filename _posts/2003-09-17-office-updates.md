@@ -2,6 +2,7 @@
 title: Office Updates
 date: 2003-09-17 02:10:09 PM
 category: Old Site
+tag: untagged
 ---
 
 After getting all of my Windows computers updated with the latest Windows service packs, I decided to update my copy of Office. I went to the Office Update site to download the latest patches. After spending a bit of time downloading the update, it asked me for disk 2 for Office. Unfortunately, I can only find disk 1 at the moment. Ugh

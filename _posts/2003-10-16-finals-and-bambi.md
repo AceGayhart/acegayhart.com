@@ -2,6 +2,7 @@
 title: Finals And Bambi
 date: 2003-10-16 11:09:26 AM
 category: Old Site
+tag: untagged
 ---
 
 I had a pretty good day yesterday. I spent most of the morning taking final exams. Now, I just have to finish my final project to get my degree. I would like to get it all done before the end of the year. Since I had an abundance of vacation time, I decided to take a few weeks off to work on my project.

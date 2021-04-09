@@ -2,6 +2,7 @@
 title: Strawberry Popcorn And A Computer
 date: 2004-06-17 05:41:57 PM
 category: Old Site
+tag: untagged
 ---
 
 Since it's summer again, Rachel decided to plant some strawberry popcorn again. Out of four seeds only one plant survived. That is until very recently. Kara had decided that it must have been food so she jumped into the flowerpot and ate most of the plant. I suppose we can try again next year.

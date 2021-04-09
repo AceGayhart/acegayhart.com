@@ -2,6 +2,7 @@
 title: Wind And Relics
 date: 2004-03-05 03:07:25 PM
 category: Old Site
+tag: untagged
 ---
 
 Today has been extremely windy. This morning the wind blew a picture off of our staircase and ended up shattering a drinking glass. We had hoped that was extent of the damage, but as you can see in the picture, it wasn't. Around noon, we heard a dull thump outside. We had thought that it was just a trashcan being blown around or something. When I went outside to investigate I saw a large limb laying across our entire backyard. The limb was probably three or four inches thick at its thickest point. Fortunately there was no damage. Amazingly, the branch landed a few inches from the fence on one side of the yard and the garage on the other side of the yard.

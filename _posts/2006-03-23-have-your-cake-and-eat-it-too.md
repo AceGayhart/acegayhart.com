@@ -2,6 +2,7 @@
 title: Have Your Cake And Eat It Too
 date: 2006-03-23 03:18:19 PM
 category: Old Site
+tag: untagged
 ---
 
 Boy am I stuffed! I just got back from Don Tequilas (a local Mexican restaurant). The last time Rachel and I went there, I dropped my business card into a box for a free lunch. I was not expecting to win. However, I was extremely surprised when I got a call saying that I won. Of course, going by myself would not be as much fun as going with nine other people. That is correct, I won lunch for ten people. Due to scheduling conflicts, only eight people showed up. It only cost us five minutes of our time to listen to a financial advisor. Most of us even enjoyed the advisor's time and might use his services.

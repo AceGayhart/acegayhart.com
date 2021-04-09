@@ -2,6 +2,7 @@
 title: Back To Work
 date: 2007-07-09 08:34:15 PM
 category: Old Site
+tag: untagged
 ---
 
 After not being in the office since June 14, it was weird going to the office today. I will have to get used to waking up early again. Falling asleep at 1:00 AM and getting up at 4:00 AM will not last long. The earliest I had been getting up for the past month had been 6:00 AM. And, with me being on vacation last week, I got up a lot later.

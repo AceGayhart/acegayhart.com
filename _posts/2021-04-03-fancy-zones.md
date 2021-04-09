@@ -1,6 +1,6 @@
 ---
 title: Fancy Zones
-date: 2021-04-03 10:00:47 PM 
+date: 2021-04-03 10:00:47 PM
 tags:
     - tech tools
     - teaching

@@ -2,6 +2,7 @@
 title: Back To School
 date: 2004-08-30 10:04:23 PM
 category: Old Site
+tag: untagged
 ---
 
 Today was my first day at Saint Leo University. My first class is an orientation class. The class is progressing fairly smoothly; I've already completed my second (out of eight) week of assignments. Of course, I doubt that all of my classes will be as easy. My next class will be an English class. In my fourth week of my orientation class, I'll take my English and Math placement tests. Then I'll know which English class I can take.

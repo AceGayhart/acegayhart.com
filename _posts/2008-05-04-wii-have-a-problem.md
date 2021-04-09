@@ -2,6 +2,7 @@
 title: Wii Have A Problem
 date: 2008-05-04 11:55:00 PM
 category: Old Site
+tag: untagged
 ---
 
 Recently, the US Government approved a stimulus payment to us taxpayers. The payment schedule was based on the last two digits of the taxpayer's Social Security Number as well as if the taxpayer's refund was direct deposited.

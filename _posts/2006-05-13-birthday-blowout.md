@@ -2,6 +2,7 @@
 title: Birthday Blowout
 date: 2006-05-13 10:12:46 PM
 category: Old Site
+tag: untagged
 ---
 
 This week was quiet. I recently replaced the faucets in the bathroom. The downstairs bathroom faucet was a pain. I ended up having to remove the sink just to disconnect the water lines. After spending a few hours cleaning off the old plumber's putty, removing the old faucet and drain, putting on new putty, and installing the new faucet and drain, I was exhausted. I wish I were finished. But, the new drainpipe had a small crack that continued to leak. Fortunately, a plumber friend came by with a better drainpipe. The upstairs faucet went a lot quicker. I was done within fifteen minutes.

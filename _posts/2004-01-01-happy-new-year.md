@@ -2,6 +2,7 @@
 title: Happy New Year
 date: 2004-01-01 02:09:21 PM
 category: Old Site
+tag: untagged
 ---
 
 I'd like to say happy New Years to everyone out there. I hope that everyone had a safe time last night. My wife and I had a nice dinner with my parents-in-law at our house. We had some turkey (leftover from Christmas), stuffing, roll, cranberry sauce and some candied yams. Considering that this was the first time that I had made turkey or candied yams, I think that they both turned out pretty good. My wife made a wonderful cherry cobbler for dessert. Let the leftover lunches begin!

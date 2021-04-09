@@ -2,6 +2,7 @@
 title: Happy Father's Day
 date: 2004-06-20 11:29:58 PM
 category: Old Site
+tag: untagged
 ---
 
 Last night I received a card and the first season of A-Team on DVD from Rachel. That should last me a few days. Today, from my dogs, I received a new shirt and a box of chocolates (which probably won't last the night). This afternoon my parents-in-law, my grandparents-in-law, Rachel and I went out to lunch at Yanni's. Yanni's, if I haven't mentioned is a great place to eat. I don't think we have had a bad meal yet.

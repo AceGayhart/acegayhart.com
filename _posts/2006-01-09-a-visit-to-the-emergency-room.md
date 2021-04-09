@@ -2,6 +2,7 @@
 title: A Visit To The Emergency Room
 date: 2006-01-09 02:12:30 PM
 category: Old Site
+tag: untagged
 ---
 
 Last Saturday was supposed to be a relaxing day. I had planned to sleep in late and work ahead on my schoolwork. Of course, things do not always go according to plan. Around 1:00 PM, Rachel woke me up; at least I was able to sleep in. She was having problems with the internet. I went upstairs to work on the problem. While I upstairs, she complained that her neck was itching. She checked in the bathroom mirror and noticed a few small bumps. A few minutes later and she had several more bumps all over her body.

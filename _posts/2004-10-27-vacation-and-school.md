@@ -2,6 +2,7 @@
 title: Vacation And School
 date: 2004-10-27 12:51:12 PM
 category: Old Site
+tag: untagged
 ---
 
 The company that I work for doesn't allow me to carry over vacation years from one year to the next. Consequently, I am taking Wednesdays off for the rest of the year just to burn up my vacation days. Today was my first day off. I was looking forward to sleeping in this morning. However, the dogs decided to get up at 4:00 AM. After we brought them back inside, I tried going to sleep, but it didn't last long. I got a couple of calls from work. I figured that I might as well just stay up.

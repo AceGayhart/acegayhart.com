@@ -2,6 +2,7 @@
 title: Popcorn Popper
 date: 2003-11-15 02:18:39 PM
 category: Old Site
+tag: untagged
 ---
 
 My parents-in-law recently got back from their vacation. They drove through Michigan, Wisconsin, Illinois, Indiana, Kentucky and West Virginia. Anyway, when they came back, they gave me a few souvenirs.

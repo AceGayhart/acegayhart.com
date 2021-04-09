@@ -2,6 +2,7 @@
 title: A Good Weekend
 date: 2004-08-22 04:05:44 PM
 category: Old Site
+tag: untagged
 ---
 
 On Thursday, we picked the pictures of Kara and Kelly. It was hard to decide which pose to take out of all four, so we ended up taking all for poses. In fact we ordered more prints of each pose. I think my favorite pose is the one with the autumn background, though the paint can pose is very appropriate for them.

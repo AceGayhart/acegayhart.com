@@ -2,6 +2,7 @@
 title: Going Green
 date: 2008-04-01 11:41:00 AM
 category: Old Site
+tag: untagged
 ---
 
 As Kermit the Frog often said, "it ain't easy being green." Isn't that the truth? Yes, I try to recycle and such, but it is not enough. A blogger mentioned that her calculated carbon footprint is around 20 tons of carbon dioxide. I was only a bit surprised that when I calculated mine, it was at 100 tons.

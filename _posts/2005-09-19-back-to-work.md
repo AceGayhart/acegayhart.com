@@ -2,6 +2,7 @@
 title: Back To Work
 date: 2005-09-19 07:00:38 PM
 category: Old Site
+tag: untagged
 ---
 
 Just after 1:00 PM, Rachel and I decided to grab some lunch and head towards my office. We made a quick stop at a nearby Taco Bell / Pizza Hut express before journeying to the office. As the office moved since I was last in California and since I was a bit hazy on the office's location, I put a call into Roy. He told us to head north on 101 and take the Mendocino / Hopper exit. However, going north that exit says Mendocino / Old Redwood Hwy. I could not remember if there was another exit. We ended up turning around at the next exit.

@@ -2,6 +2,7 @@
 title: Anniversary Couple Of The Day
 date: 2008-12-11 03:18:00 PM
 category: Old Site
+tag: untagged
 ---
 
 Recently, Rachel and I received mail stating we won a contest. Considering the recent problems with our bank account, we initially thought it was a fraud. But, after doing some research, we found that it was indeed legitimate.

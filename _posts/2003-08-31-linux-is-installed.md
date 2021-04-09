@@ -2,6 +2,7 @@
 title: Linux is Installed
 date: 2003-08-31 04:11:44 PM
 category: Old Site
+tag: untagged
 ---
 
 Hi. The Linux install went rather smoothly. The only problem was that I had was a lack of a network connection. I didn't have a cable long enough to reach from my hub to the laptop. So, if anyone would like to buy me a wireless router and/or a wireless network card, I'd greatly appreciate it. :)

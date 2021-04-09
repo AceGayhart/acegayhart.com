@@ -2,6 +2,7 @@
 title: Merry Christmas 2008
 date: 2008-12-29 07:14:00 PM
 category: Old Site
+tag: untagged
 ---
 
 I hope everyone had a good Christmas or whichever holiday your family celebrates. It has been a crazy past couple of weeks. Pizza Hut finally contacted me about our past dining experience. They sent me a couple of coupons for free pizzas. In addition, the regional manager contacted me and gave me a $25 credit for my next order. That is fine, just as long as their products improve. I am not going to eat a crummy pizza even if it is free. However, we will at least give them another chance.

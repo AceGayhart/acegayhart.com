@@ -2,6 +2,7 @@
 title: On The Road To Reno
 date: 2005-09-22 02:15:52 AM
 category: Old Site
+tag: untagged
 ---
 
 After another restful night in our hotel and a filling breakfast from the local cafe, Rachel and I packed up our belongings and prepared to travel again. We stopped back by mom and step dad's house for a quick chat. Then, we filled up at a gas station, picked up some DVDs at the local Best Buy, and made our way to Reno, NV.

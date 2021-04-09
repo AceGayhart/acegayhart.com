@@ -2,6 +2,7 @@
 title: On Vacation
 date: 2004-06-08 08:56:00 AM
 category: Old Site
+tag: untagged
 ---
 
 Me, on vacation? No, not really. Rachel had to recertify in food safety. Since they were holding the recertification at the Cuyahoga Falls Target and since she had to be there for a few days, we decided to find a local hotel. We're staying at the Country Inn & Suites. Our room is very nice. We've got a bedroom, bathroom, living room and a kitchen area. Heck, it's probably bigger than some studio apartments. In the living room, there's a TV, a couch, a few chairs and a table. What's especially nice is the high-speed internet connection (150 kbps up, 1 mbps down). Okay. I guess that any place were I can plug in a laptop doesn't quite qualify as a vacation. But, at least I'm out of the house.

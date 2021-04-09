@@ -2,6 +2,7 @@
 title: Happy New Year
 date: 2005-01-04 06:24:29 PM
 category: Old Site
+tag: untagged
 ---
 
 I hope that everyone had a fun and safe holiday season. With the exception of large amounts of snow, everything was quiet here. Since Rachel and I knew what we bought each other, I was not too surprised when we opened gifts. I did receive a new wooden puzzle though. I spent at least a half hour on it but have been unable to solve it so far. I took a quick peek at the animated solution and found that it takes 100 moves for the solution. That should keep me busy for a while.

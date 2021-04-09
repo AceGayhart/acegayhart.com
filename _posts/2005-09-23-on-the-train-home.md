@@ -2,6 +2,7 @@
 title: On The Train Home
 date: 2005-09-23 11:50:03 PM
 category: Old Site
+tag: untagged
 ---
 
 The taxi ride from the hotel to the train station was interesting. The station was only two or three blocks away. But, with all of the traffic and with half the streets being closed, it took us at least twenty minutes to make the trip.

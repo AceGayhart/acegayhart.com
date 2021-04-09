@@ -2,6 +2,7 @@
 title: Pet Training
 date: 2004-06-16 07:29:27 PM
 category: Old Site
+tag: untagged
 ---
 
 Rachel and I decided to enroll Kelly and Kara in an eight-week basic training course at PETsMART. They're slowly learning with us. But it would probably be more beneficial for them (and us) to have structured training. Our first class was last Monday. Since we didn't have the dogs with us (it was just an orientation) the class went by quickly. I'm excited (and anxious) to bring them to class next week. They gave us a training guide to study. Also, I've been reading The Complete Idiot's Guide To Beagles (among other things).

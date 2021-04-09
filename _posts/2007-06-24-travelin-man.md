@@ -2,6 +2,7 @@
 title: Travelin' Man
 date: 2007-06-24 04:04:10 PM
 category: Old Site
+tag: untagged
 ---
 
 Starting last Tuesday, I was away on business. As typical, the trip did not start out as smoothly as hoped. My coworkers and I were supposed to leave by 9:00 AM. Unfortunately, we left closer to noon. Once we were on the road, things did not improve. The weather made a turn for the worse. We had so much wind and rain that several vehicles had to drive with their flashers on. We also passed a number of vehicles in the road. At one point, we kept expecting to see a tornado touch down. Fortunately, the only major problem was a branch on the road blocking our lane.

@@ -1,6 +1,6 @@
 ---
-title: Gaming
-tag: "Gaming"
+title: gaming
+tag: "gaming"
 layout: archive-tags
 permalink: "tag/gaming"
 ---

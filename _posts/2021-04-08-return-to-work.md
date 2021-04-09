@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08 08:03:57 PM 
+date: 2021-04-08 08:03:57 PM
 tags:
     - covid-19
     - working
@@ -7,7 +7,7 @@ tags:
 
 A "return to work" was recently announced.  Since I've been working remotely for more than a year now, it is really a return to the office.  I last worked in the office full time in mid-March 2020.   I stopped over in June 2020 to pick up my office plants.  While my boss kept up with the weekly watering, I wasn't getting the same benefit.  I'm happy to say that most of the plants survived.  I've got a jade plant that is doing remarkably well in my home office.
 
-The current plan is that we'll be onsite Mondays and Thursdays starting in June.  I stopped into the office today to meet up with a potential hire. 
+The current plan is that we'll be onsite Mondays and Thursdays starting in June.  I stopped into the office today to meet up with a potential hire.
 
 It was weird making the commute.  I was happy that it wasn't during the morning rush hour.  But, I kept having to check myself to ensure I was in the correct lane.  I distinctly remember asking myself how to get home during the return trip.
 

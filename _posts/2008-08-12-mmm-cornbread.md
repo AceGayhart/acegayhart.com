@@ -2,6 +2,7 @@
 title: Mmm Cornbread
 date: 2008-08-12 07:41:00 AM
 category: Old Site
+tag: untagged
 ---
 
 Not to be outdone by my recent bakery prowess (all of four loaves of bread), Rachel made some cornbread last night. It was very good. We have been trying to eat healthier. This means that now we actually have to make a concerted effort to plan and build meals. Rachel has spearheaded this initiative by selecting recipes and building an ingredient list.

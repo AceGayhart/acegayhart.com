@@ -2,6 +2,7 @@
 title: Media Bonanza
 date: 2005-12-14 12:48:42 PM
 category: Old Site
+tag: untagged
 ---
 
 The recent theft of our outdoor Christmas decorations has set off a minor media bonanza. Shortly after the theft, we noticed a letter to the editor of The Morning Journal (a local newspaper. The writer of the letter detailed a similar theft. After a bit of investigation, we discovered that this writer lived only a few streets away. Therefore, Rachel wrote her own letter to The Morning Journal. They published it the next day. In addition, a local radio station read her letter on the air.

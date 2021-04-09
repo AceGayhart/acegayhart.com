@@ -2,6 +2,7 @@
 title: Pickles And Sour Cream
 date: 2006-03-17 05:08:12 PM
 category: Old Site
+tag: untagged
 ---
 
 Rachel and I like to tease our dog Emily. In fact, we have vanity plates with her two favorite phrases: "Treats" and "Car Ride." Of course, the teasing is all in good fun. My father-in-law Ken gave her the name of "Pickle Juice Head." He had inadvertently spilled some pickle juice on her.

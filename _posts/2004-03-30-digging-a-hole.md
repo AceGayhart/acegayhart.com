@@ -2,6 +2,7 @@
 title: Digging A Hole
 date: 2004-03-30 02:50:54 PM
 category: Old Site
+tag: untagged
 ---
 
 My father-in-law and I spent the weekend on a new gate. We spent Saturday measuring, buying supplies and digging holes. Well, we tried to dig holes anyway. Unfortunately, the concrete and the fill underneath the concrete were too much for our crowbars and shovels. On Sunday, we rented an electric jackhammer. That was my first time using one. It was actually kind of fun. It does take quite a lot out of you though. On Monday, I put the gate up temporarily. We still have some concrete work to do. We want to build a small ramp that goes between the back porch and the driveway.

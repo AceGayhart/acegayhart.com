@@ -2,6 +2,7 @@
 title: Let The Gambling Begin
 date: 2005-09-23 02:19:03 AM
 category: Old Site
+tag: untagged
 ---
 
 Rachel and I woke up later than we normally do; we were on vacation and did not really have anything important to do. We started our morning with wonderful breakfast delivered by room service. An hour so later and we finally made our way downstairs.

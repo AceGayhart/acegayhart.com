@@ -2,6 +2,7 @@
 title: Out Of The Hospital
 date: 2004-06-21 05:16:44 PM
 category: Old Site
+tag: untagged
 ---
 
 Kelly's doing much better. When we took her to the hospital, she just sat on our laps, hardly moving. When we picked her up this morning, she was moving around a lot. She was even wagging her tail again. The doctor found a plastic bag in her stomach. Rachel and I didn't recognize the bag, but we suspect that it came from our neighbors (it isn't the first time we've had their trash in our yard). Kelly's still a bit lethargic (due to the medication) and she has to eat different food for a few days. But, she should be fine by the end of the week. The only thing she'll miss is her first day of training today.

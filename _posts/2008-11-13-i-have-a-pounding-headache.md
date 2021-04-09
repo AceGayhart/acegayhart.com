@@ -2,6 +2,7 @@
 title: I Have A Pounding Headache
 date: 2008-11-13 01:05:00 PM
 category: Old Site
+tag: untagged
 ---
 
 One of the benefits (if you can call it that) of being unemployed is that I can sleep in. Of course, I cannot goof off all day, but I no longer have to wake up before 5:00 AM. This morning Rachel did not want to get out of bed to let the dogs out. Normally, she would let them out while I would get ready for work. Today, I figured I would let her sleep in and take the dogs out by myself.

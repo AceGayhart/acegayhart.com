@@ -2,6 +2,7 @@
 title: Last Day In A Hotel
 date: 2005-09-23 06:30:19 PM
 category: Old Site
+tag: untagged
 ---
 
 Today is the last day in a hotel room before Rachel and I get back on a train. We are eager to get back home after being on vacation for so long. But, at the same time, we do not want our vacation to end.

@@ -2,6 +2,7 @@
 title: Faucet, Wrong Number And Cotton Candy
 date: 2004-01-25 06:39:24 PM
 category: Old Site
+tag: untagged
 ---
 
 Since my wife had to work Friday night, I thought that would be a great time to install the faucet. I turned off the water to the house and let the remaining water in the lines drain out. The hot water supply line came out with no problems (probably because I had already taken it out a few days prior). The cold water supply line was a bit more difficult. I was able to disconnect the end that connects to the water supply, but I had several difficulties disconnecting the faucet end. I decided just to remove the old faucet with the supply line intact.

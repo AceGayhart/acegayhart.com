@@ -2,6 +2,7 @@
 title: More Reunions
 date: 2005-09-19 04:00:05 PM
 category: Old Site
+tag: untagged
 ---
 
 Around 10:00 AM, I called my mom, Ellen, to see how things were going. We talked for a while before I told her that I was busy and that I would have to call her back. She said that she would be at the house for a while. I then called Roy and told him to come over to the motel so we could go over and surprise her and Fred, my step dad.
