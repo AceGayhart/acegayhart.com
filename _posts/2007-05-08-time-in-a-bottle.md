@@ -29,8 +29,8 @@ It is fast and easy to support this great cause - you can make your donation onl
 
 Any amount, great or small, helps in the fight against this deadly disease. Someone donated about thirty cents last year. Rachel and I greatly appreciate your support and will keep you posted on my progress. If you want to do even more to help, please consider joining me in this great event. Our efforts will help set the pace in the fight against diabetes. In addition, we welcome anyone who wishes to ride with us.
 
-You can find more information on the American Diabetes Association, its programs and diabetes in general at the Association's Web site: http://www.diabetes.org/.
+You can find more information on the American Diabetes Association, its programs and diabetes in general at the Association's Web site: <http://www.diabetes.org/>.
 
-For more information on Tour de Cure, please visit http://www.diabetes.org/tour/.
+For more information on Tour de Cure, please visit <http://www.diabetes.org/tour/>.
 
 Tagline for today: "Sincerity is the key. If you can fake that, you've got it made." - George Burns

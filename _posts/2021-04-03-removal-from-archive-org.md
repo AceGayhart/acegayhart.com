@@ -32,7 +32,7 @@ Finally, I sent a short email to info@archive.org asking that they remove my sit
 >
 > Subject: Removal of silverjaguar.com
 >
-> Greeting! I would like to remove the archived content for silverjaguar.com and its associated pages. There is a robots.txt file (http://silverjaguar.com/robots.txt) that should prevent crawls/indexing.
+> Greeting! I would like to remove the archived content for silverjaguar.com and its associated pages. There is a robots.txt file (<http://silverjaguar.com/robots.txt>) that should prevent crawls/indexing.
 >
 > I thank you in advance! Please let me know if there is anything you need from me.
 
