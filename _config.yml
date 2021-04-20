@@ -60,7 +60,7 @@ show_dir_listing    : false
 
 # Outputting
 permalink           : date
-paginate            : 5
+paginate            : 10
 paginate_path       : /page:num
 timezone            : America/New_York
 
@@ -73,6 +73,11 @@ defaults:
     values:
       layout: "post"
       category: "Uncategorized"
+      author: "acegayhart"
+      image:
+        path: /assets/images/Ace.png
+        height: 200
+        width: 200
   - scope:
       path: ""
     values:
@@ -96,4 +101,26 @@ kramdown:
   show_warnings     : false
   
 
+title: "Ace Gayhart"
+description: "The blog of technologist and educator, Ace Gayhart."
+tagline: "Technologist & Educator"
 url: https://acegayhart.com
+image: /assets/images/Ace.png
+logo:  /assets/images/Ace.png
+social:
+  name: Ace Gayhart
+  links:
+    - https://twitter.com/AceGayhart
+    - https://www.linkedin.com/in/AceGayhart/
+    - https://github.com/AceGayhart/
+twitter:
+    username: AceGayhart
+    card: summary
+
+
+
+
+# author:
+#   name: Ace Gayhart
+#   uri: https://acegayhart.com/about/
+
