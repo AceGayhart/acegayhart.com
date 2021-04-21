@@ -1,8 +1,7 @@
 ---
 title: Windy Day And Night
 date: 2003-11-13 09:47:16 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 It has been a very windy day and night. Last night, we came home to find that our garbage can (and the trash inside it) was missing. We walked up and down the street but we couldn't find it. We did see, however, that several garbage cans had been blown over. Also, we saw a construction barrel was blown a few blocks from where it had been sitting.

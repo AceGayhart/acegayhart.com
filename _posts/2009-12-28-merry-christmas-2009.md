@@ -1,8 +1,7 @@
 ---
 title: Merry Christmas 2009
 date: 2009-12-28 02:48:00 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I hope that everyone had a good Christmas. They say that this is the time of year we get together with friends and family. However, most of my friends out of state, getting together can be difficult.

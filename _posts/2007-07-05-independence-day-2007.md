@@ -1,8 +1,7 @@
 ---
 title: Independence Day 2007
 date: 2007-07-05 05:00:18 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 As always, I hope that everyone had a safe holiday yesterday and that you did not lose any fingers and toes. When I was in Pennsylvania last week, I was tempted to bring home some fireworks. But, without money, it is hard to buy fireworks.

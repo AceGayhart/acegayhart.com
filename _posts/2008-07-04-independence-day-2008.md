@@ -1,8 +1,7 @@
 ---
 title: Independence Day 2008
 date: 2008-07-04 06:25:00 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 So far, today has been a quiet day. I imagine that as it gets darker outside, it will become louder. Several of my neighbors have been setting off fireworks for the last few months. I enjoy fireworks as much as the next person does. However, I do not think that they have as much visual impact during the day as they would at night. Of course, I do not enjoy listening to the racket well past midnight. At least I do not have to work for a few days. Therefore, if the noise keeps me up tonight, I can sleep in tomorrow.

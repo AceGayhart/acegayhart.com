@@ -1,8 +1,7 @@
 ---
 title: Printer Problems
 date: 2003-12-10 01:34:07 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I was trying to print out some letters yesterday on my printer (I have an Epson Stylus C80) and I was having some problems. After printing about a dozen letters, I noticed that I started to get some gaps in the printout. Tried to run the ink head cleaning utility, but I didn't have much luck. I kept getting a message a being low on yellow ink. So, I skipped the cleaning for a bit. However, it wouldn't let me print anything any more. The printer has a black ink cartridge in addition to the color ones. It was frustrating to not be able to print a black and white document simply because I didn't have any yellow ink.

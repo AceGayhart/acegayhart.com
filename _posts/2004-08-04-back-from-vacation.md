@@ -1,8 +1,7 @@
 ---
 title: Back From Vacation
 date: 2004-08-04 02:26:59 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 This past weekend, Rachel, Pam (my mother-in-law), Lynn (Pam's sister), Nana (Pam's mom) and I took a road trip to Kentucky. We were going to see some of Rachel's relatives and to do some sightseeing. Since I'd never been to Kentucky, I was fairly happy to go. The trip there was fairly uneventful. Apparently, we passed through Virginia and West Virginia, but I was so engrossed with my book and music that I missed the "Welcome To" signs. I read and finished one book on the way down and another book on the way home. I've been trying to finish at least one book a week (at least until school starts).

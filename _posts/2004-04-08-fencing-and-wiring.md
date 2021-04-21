@@ -1,8 +1,7 @@
 ---
 title: Fencing And Wiring
 date: 2004-04-08 09:58:57 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Well, it's another rainy day in Lorain. Of course, that's not too unusual. Fortunately, we got most of the cement work done around our new gate. We still have to do a bit of patching though. Since it rained shortly after we finished pouring the concrete, there's a small indentation that needs to be fixed.

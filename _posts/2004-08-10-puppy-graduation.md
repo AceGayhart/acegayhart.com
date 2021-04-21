@@ -1,8 +1,7 @@
 ---
 title: Puppy Graduation
 date: 2004-08-10 01:59:11 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Yesterday was Kara and Kelly's last class of basic puppy training. Their final command is BOW. When they bow, they lay down on their front two paws while keeping their rear in the air. So now, in addition to BOW, they know SIT, STAY (for up to 30 seconds), DOWN, COME and LEAVE IT. They still need continual practice of course. I got an additional dog splitter and a stronger leash so I can take all three dogs for a walk at the same time.

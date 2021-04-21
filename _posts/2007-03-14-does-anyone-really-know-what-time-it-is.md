@@ -1,8 +1,7 @@
 ---
 title: Does Anyone Really Know What Time It Is?
 date: 2007-03-14 10:08:13 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I hope that everyone (in the US and Canada) "sprung forward" their clocks on Sunday. I did not have any computer problems; all of the computers' patches were up to date. But, I got a bit tired of changing all of the clocks. I think we have about eight in the kitchen alone. It seems like every new electronic device has a built in clock.

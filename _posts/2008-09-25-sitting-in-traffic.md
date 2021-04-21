@@ -1,8 +1,7 @@
 ---
 title: Sitting In Traffic
 date: 2008-09-25 07:43:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 On the way to work, I hear about an accident on the radio. The accident must have been a big one as officials blocked three of the traffic lanes. Sure enough, traffic halted once I was a few miles away from the scene. So, I sat back and watched other stupid drivers. Of course, there were the usual idiots trying to get ahead by driving in the emergency lane. I saw one driver drive across the median and head the other way on the freeway. On one of the on ramps, I saw a number of people either backup or make a U-turn. As I keep listening to the radio, it seems that this accident precipitated a number of other accidents in the area (probably due to more stupid people).

@@ -1,8 +1,7 @@
 ---
 title: A Year In Ohio
 date: 2004-04-19 11:53:08 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Well, it's been just over a year since my wife and I moved from California. So far, most everything has been going great. There have been the occasional problems, but that's to be expected. It's been a bit weird working out of the house. The downside is that I don't have a lot of face-to-face contact with other people. Of course, there are several upsides:

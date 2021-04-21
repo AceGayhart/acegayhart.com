@@ -1,8 +1,7 @@
 ---
 title: Credit Card Company Conundrum
 date: 2007-08-24 10:16:47 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Due to lack of income, I have been behind on my bills. Consequently, I receive a number of phone calls from credit card companies, banks, and whatnot looking for money. This, of course, is understandable. What bugs me though, is when they call more than once a day. I have had companies call up to ten times a day. If I am not at home, leave me a message.

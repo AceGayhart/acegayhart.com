@@ -1,8 +1,7 @@
 ---
 title: Valentine's Day Blizzard 2007
 date: 2007-02-15 10:56:15 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I can finally say that I have experienced my first blizzard. On Tuesday, the snow started coming down heavy in the afternoon. By the time it was time to go home, the roads had lots of snow. Rachel had been sending me regular reports of highway closings and snowfall. So, I figured that I might not make it in to work the next day. I packed up my laptop and headed home.

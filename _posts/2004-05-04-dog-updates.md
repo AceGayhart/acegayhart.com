@@ -1,8 +1,7 @@
 ---
 title: Dog Updates
 date: 2004-05-04 05:19:53 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 It's been over a month since our two new additions. We had been treating Kelly for tapeworm, but she is now clean. Also, both Kara and Kelly have gained some weight since their last vet appointment. Kara is now 16.6 lbs (she was 12.6) and Kelly is now 18.0 lbs (she was 16.4 lbs).

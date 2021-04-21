@@ -1,8 +1,7 @@
 ---
 title: Let It Snow
 date: 2004-12-13 08:38:26 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Last night when Rachel and I were watching TV, the wind started to howl. I think that we were getting gusts of up to fifty miles an hour. In addition, the temperature dropped at least five degrees in as many minutes. When, I got up this morning, there was hardly any snow on the ground. However, through the course of the day, we got at least two inches of snow. I guess that once you start to shovel snow, you know that winter's upon you.

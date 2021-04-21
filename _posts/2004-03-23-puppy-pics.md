@@ -1,8 +1,7 @@
 ---
 title: Puppy Pics
 date: 2004-03-23 02:34:51 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 As promised, here are a few pictures of our new babies. Kara and Kelly are tri-colored (brown, black and white) Beagles. Kara has a darker back and the white patch on her head goes to the right. Kelly has a lighter back and the white patch on her head goes to the left. Since they are so hard to tell apart, we decided to color-code them. Kara is the one sporting the pink harness. Kelly is wearing red. In this picture, you can see my wife giving them a hug.

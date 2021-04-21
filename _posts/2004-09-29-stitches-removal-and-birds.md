@@ -1,8 +1,7 @@
 ---
 title: Stitches Removal And Birds
 date: 2004-09-29 10:27:42 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I know that beagles will eat most everything; lately I have caught one or more of the dogs eating acorns, cicadas, dragonflies and other miscellaneous bugs. Yesterday, however, Kara caught herself a bird. I am not sure what kind it was, but it was about the size of a sparrow (actually, it probably was a sparrow). She ate the bird whole before we could get at her to pull it out of her mouth. Ah well. At least she's doing okay.

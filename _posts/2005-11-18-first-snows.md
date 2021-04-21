@@ -1,8 +1,7 @@
 ---
 title: First Snows
 date: 2005-11-18 01:30:38 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Yesterday, we got our first snows of the cold weather season. While the Snow Belt just east of us got six to eight inches, we only received flurries. Rachel kept bugging me to write something about it in my blog. For me, it does not count as snow until it gets to the point where it sticks to the ground (and it needs to be shoveled). It is like comparing moss to salad. Sure, there are loads of similarities, but that does not mean that I am going to give up lettuce.

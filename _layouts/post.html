@@ -3,62 +3,23 @@ layout: default
 ---
 <main>
 <h1>{{ page.title }}</h1>
-<div class="pagination">
-  {% if page.previous %}
-    <a href="{{ page.previous.url }}">&laquo; Older</a>
-  {% else %}
-    <span>&laquo; Older</span>
-  {% endif %}
 
-  {% if page.next %}
-    <a href="{{ page.next.url }}">Newer &raquo;</a>
-  {% else %}
-    <span>Newer &raquo;</span>
-  {% endif %}
-</div>
+{% include post-navigation.html %}
+
 <p>Posted:  <strong>{{ page.date | date: "%B %e, %Y %r" }}</strong></p>
 
 {{ content }}
 
-
-
-{% assign sorted_categories = page.categories | sort %}
-{% if sorted_categories.size > 0 %}
-<p style="font-size: smaller;">
-    Categories:
-    {% for category in sorted_categories %}        
-        [<a href="/category/{{category | downcase | replace:' ','-' }}">{{category | downcase | replace:' ','-' }}</a>]
-
-    {% endfor %}
-</p>
-{% endif %}
-
-
-{% assign sorted_tags = page.tags | sort %}
+{%- assign sorted_tags = page.tags | sort -%}
 {% if sorted_tags.size > 0 %}
 <p style="font-size: smaller;">
-    Tags:
-    {% for tag in sorted_tags %}        
-        [<a href="/tag/{{tag | downcase | replace:' ','-' }}">{{tag | downcase | replace:' ','-' }}</a>]
-
+    Tags: 
+    {% for tag in sorted_tags %}
+        [<a href="/tag/{{ tag | downcase | replace:' ','-' }}">{{ tag | downcase | replace:' ','-' }}</a>]
     {% endfor %}
 </p>
 {% endif %}
 
-
-<div class="pagination">
-  {% if page.previous %}
-    <a href="{{ page.previous.url }}">&laquo; Older</a>
-  {% else %}
-    <span>&laquo; Older</span>
-  {% endif %}
-
-    {% if page.next %}
-    <a href="{{ page.next.url }}">Newer &raquo;</a>
-  {% else %}
-    <span>Newer &raquo;</span>
-  {% endif %}
-</div>
-
+{% include post-navigation.html %}
 
 </main>

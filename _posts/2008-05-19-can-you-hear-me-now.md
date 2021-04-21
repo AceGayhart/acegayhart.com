@@ -1,8 +1,7 @@
 ---
 title: Can You Hear Me Now?
 date: 2008-05-19 07:09:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I switched to Vonage several months ago. It is about half the cost of using the local land line provider. Since voice mail is a free feature, I no longer have to use an answering machine. Of course, since my cell phone now rings simultaneously, I can answer calls that I would have otherwise missed. I also like that my monthly bill amount is fixed. In addition, as it is extremely easy to view my call history online, I do not even receive a paper bill.

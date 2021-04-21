@@ -1,8 +1,7 @@
 ---
 title: First Day Of Winter
 date: 2004-12-21 02:38:02 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Today is the first day of winter. Surprisingly, today has been warmer than the last couple of days. Yesterday, the temperature dropped to seven degrees and it never got higher than twenty degrees. Today it is nearly forty. It is a bit weird to see snow on the ground for a day, then nothing, and then snow again. I wish the snow would be a bit more consistent; I rather enjoy shoveling it (yes, I'm serious about the shoveling). The dogs love the snow too; I have to keep telling them to not eat the snow (especially the yellow snow).

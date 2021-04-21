@@ -72,7 +72,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      category: "Uncategorized"
       author: "acegayhart"
       image:
         path: /assets/images/Ace.png

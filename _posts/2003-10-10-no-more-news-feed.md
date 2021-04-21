@@ -1,8 +1,7 @@
 ---
 title: No More News Feed
 date: 2003-10-10 02:32:35 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I use CenturyTel as my internet provider. A few days ago, I noticed that I stopped getting posts on their news server. I sent them an e-mail asking what was up. Here's their response:

@@ -1,8 +1,7 @@
 ---
 title: Truck Returned And No Solicitation
 date: 2005-01-23 04:19:51 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 We finally got our truck back on Friday. The first thing that I noticed was that the truck was a lot cleaner; there was no salt or other road grime plastered to the body. The total repair cost was just over one thousand dollars. As I have never been in an accident that was my fault, our insurance has a high deductible ($500). Of course, I suppose it is better than having no insurance at all. We returned our rental car on Friday. Our insurance covered the cost of the rental, but I decided to add the optional insurance. I know that our insurance would have covered any accident that we would have had in the rental car, but I did not want to be in a position where I had to fork over another $500. So, I ended up playing about $120 in optional insurance.

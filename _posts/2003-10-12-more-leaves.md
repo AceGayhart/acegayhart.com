@@ -1,8 +1,7 @@
 ---
 title: More Leaves
 date: 2003-10-12 08:47:52 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 We spent most of the afternoon cleaning up leaves. It wasn't as bad as it was last week. We filled up ten small pumpkin bags and three large trash bags. We put the pumpkin bags in front of the house as Halloween decorations.

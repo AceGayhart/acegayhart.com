@@ -1,8 +1,7 @@
 ---
 title: Tivo Rocks
 date: 2003-08-30 07:03:52 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I recently got a Tivo unit that supports DirecTV. I must say that this is a *must* have item. You can pause live TV, record two different channels while watching a pre-recorded show at the same time!

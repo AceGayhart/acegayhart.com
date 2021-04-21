@@ -4,7 +4,7 @@ date: 2010-03-31 08:02:00 PM
 tags:
     - school
     - work
-category: Old Site
+    - old site
 ---
 
 It is difficult to believe that another month has already passed. Fortunately, we did not experience too many problems. As usual, we had our ups and down. But, it averaged out in the end. For example, we received a nice federal refund this year. That was quickly spent on repairs to the truck.

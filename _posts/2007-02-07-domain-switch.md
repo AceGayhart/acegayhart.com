@@ -1,8 +1,7 @@
 ---
 title: Domain Switch
 date: 2007-02-07 10:29:00 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I finally got my domain name, silverjaguar.com, switched to a new web-hosting provider. I liked old provider, but as they did not offer discounts for multiple domains, I needed to switch. I like my new provider a lot better. I hope that no one is having problems (hopefully no one even noticed the changeover). Let me know if you have any problems or questions.

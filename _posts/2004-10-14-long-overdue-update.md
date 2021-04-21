@@ -1,8 +1,7 @@
 ---
 title: Long Overdue Update
 date: 2004-10-14 09:34:22 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I guess I'm overdue for a new blog entry. So, here goes: As you may (or may) not have noticed, autumn is upon us. Keeping with the season, I've changed the background of my web site. Leaves on a web side background are one thing, but out in our backyard the leaves are getting out of hand. Rachel and I raked up the yard one day. The next day it looked as though we hadn't picked up any leaves. At least, we have been putting the leaves to good use. We have been putting the leaves into pumpkin trash bags. We have two large pumpkins and eight smaller ones. I'm sure that we will have more before Halloween comes around.

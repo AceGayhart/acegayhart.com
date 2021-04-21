@@ -1,8 +1,7 @@
 ---
 title: How Easy Is It To Ignite Gasoline?
 date: 2008-04-23 08:31:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I do not normally think about how easy it is to ignite gasoline. I know that flame (as from a match) or a single spark can ignite gasoline. Anyway, as I was standing at a gas pump, I started to contemplate the combustibility of gasoline. I do not smoke, but if I did, I would be smart enough not to smoke near the gas pumps. I know from experience that entering and exiting my vehicle generates static electricity. I always stay outside my vehicle when filling and dissipate the stored charge before I get close to my gas tank. I have serious doubts that cell phones will cause a problem, but I do leave them in the vehicle. It is better to be safe than sorry.

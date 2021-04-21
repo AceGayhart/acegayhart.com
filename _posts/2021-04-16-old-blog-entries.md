@@ -2,7 +2,6 @@
 title: Old Blog Entries
 date: 2021-04-16 10:47:09 PM
 tag: blogging
-category: Blogging
 ---
 I was finally able to migrate my old blog entries.  Well, as much as I cared to.  I pulled much of my blog from archive.org.  But, it didn't archive all the posts.  For some of the posts, I only have the excerpt.  I also don't have the pictures.
 

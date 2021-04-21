@@ -1,8 +1,7 @@
 ---
 title: Lunar Eclipse?
 date: 2003-11-08 10:54:13 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 There was supposed to be a lunar eclipse tonight. However, due to the thick cloud cover, I didn't get to see any of it. Fortunately, there will be two more next year. After that, there will be a "drought" until 2007.

@@ -1,11 +1,11 @@
 ---
-title: Waiting In The Er
+title: Waiting In The ER
 date: 2008-10-14 07:10:00 AM
 tags:
     - annoyance
     - medical
     - personal
-category: Old Site
+    - old site
 ---
 
 I need a break. A few Fridays ago, Rachel started feeling sick. A few days later, I was also sick. I was out of work from Monday through Wednesday of last week. As I spent the majority of my time either sleeping or only marginally coherent, I did not accomplish a lot. Both my work and schoolwork suffered.

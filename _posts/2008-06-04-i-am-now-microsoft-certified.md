@@ -1,8 +1,7 @@
 ---
 title: I Am Now Microsoft Certified
 date: 2008-06-04 09:27:00 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Last Wednesday, I took the Microsoft 70-536: .NET Framework 2.0 Application Development Foundation exam. I was a bit nervous. The testing center is located at the Lorain County Community College. I had driven by the LCCC numerous times but had never ventured on campus. Since Rachel is more familiar with the area (and because I wanted some moral support) she came with me.

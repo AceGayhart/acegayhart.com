@@ -1,8 +1,7 @@
 ---
 title: Valentine's Day
 date: 2004-02-16 03:25:44 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I hope that everyone had a good Valentine's Day. Due to some work conflicts, my wife and I weren't able to go anywhere exciting, but we still had a good time. I bought her a bear holding a vase that contained a red rose. Also, I her a small mailbox that has her name on the outside and a small teddy bear and candy on the inside. Lastly, I got her a six-gallon tin of buttered, cheese and sugar-free caramel popcorn. Since I got such a good deal on the popcorn, I bought a tin for myself. My wife bought me some Jiffy Pop (which we had to test immediately). She also bought me some Pop Rocks, a heart-shaped box of Turtles and a few DVDs.

@@ -1,8 +1,7 @@
 ---
 title: Durango Despair
 date: 2005-10-25 09:02:29 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Recently, we took our Durango for its first oil change. Even though we had some issues with Wal-Mart before, we took another chance and had them do the oil change. Rachel dropped the Durango off and told them to change the wiper blades as well. A few moments later, they paged Rachel to go back to the oil station. They had some issues with the rear wiper.

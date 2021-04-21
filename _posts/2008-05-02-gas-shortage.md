@@ -1,8 +1,7 @@
 ---
 title: Gas Shortage
 date: 2008-05-02 07:49:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I know that gas prices are steadily increasing. The only solution is to stop using gas. One could use a vehicle that uses an alternative energy source (such as electricity or human power).

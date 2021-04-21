@@ -1,8 +1,7 @@
 ---
 title: Race For The Cure
 date: 2008-09-15 08:31:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Recently, Rachel asked if I would like to volunteer for the 15th Annual Komen Northeast Ohio Race for the Cure. Other coworkers of Target were going to help and she wanted to help too. Having friends and family members that have dealt with cancer, I thought it was a worthy cause. All we were supposed to do is to stand at the midpoint and hand out water. How hard could that be?

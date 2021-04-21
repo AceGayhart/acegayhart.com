@@ -1,8 +1,7 @@
 ---
 title: Microsoft Certified Professional Developer
 date: 2008-06-27 09:29:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Last week, I was supposed to take my Microsoft 70-548: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework exam. On Monday of last week, I had finished with my exam preparation book. I went online to schedule the exam. I saw that Tuesday was already booked, but Wednesday was free. Since I am currently taking Wednesdays off, I signed up for the 9:30 AM slot. I wish I had paid attention to the date. Apparently, fellow exam takers had filled all the slots for last week and I had inadvertently registered for this week.

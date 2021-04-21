@@ -1,8 +1,7 @@
 ---
 title: Counting Calories
 date: 2004-03-22 09:30:46 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I've been exercising for several weeks, but I wasn't getting the results I had hoped for. Sure, my blood pressure has dropped from the Stage 3 Hypertension range down to the High Normal range and I have been feeling more energetic, but my weight wasn't really dropping. The problem was that while I was keeping track of the calories I was burning, I wasn't keeping track of how many calories I was consuming.

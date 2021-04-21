@@ -1,8 +1,7 @@
 ---
 title: Cell Phone Invoice
 date: 2003-12-04 02:02:18 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 After living in Ohio for over six months, I finally decided to change my cell phones from California phone numbers. Since I didn't want to pay the early termination fees and since I couldn't afford new cell phones, I decided to stick with my current provider (Sprint PCS). It only took about a half hour over the phone to get everything switched over. That's a bit longer than I expected, but it wasn't too bad. It definitely beats having to go to a store.

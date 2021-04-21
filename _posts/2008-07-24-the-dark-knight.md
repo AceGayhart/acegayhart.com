@@ -1,8 +1,7 @@
 ---
 title: The Dark Knight
 date: 2008-07-24 08:28:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Rachel and I went to watch "The Dark Knight" yesterday afternoon. The movie was great. Heath Ledger did an excellent portrayal of "The Joker." I was a bit concerned that we would not make the movie in time. I had intended on doing my homework last weekend, but I ended up catching up on some much-needed sleep. Unfortunately, this meant I was up until midnight putting the final changes on my work before I turned it in. Of course, this meant that I also slept in.

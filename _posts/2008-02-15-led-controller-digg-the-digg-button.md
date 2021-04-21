@@ -1,8 +1,7 @@
 ---
 title: "Led Controller: Digg The Digg Button"
 date: 2008-02-15 10:01:00 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I was looking for some side projects when I ran across an ad on craigslist. The name sounded familiar, but I could not place it at first. Little did I realize that it was David Randolph of Systm and Revision3 fame.

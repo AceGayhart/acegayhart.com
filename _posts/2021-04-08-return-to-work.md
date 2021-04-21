@@ -3,7 +3,7 @@ title: Return to Work
 date: 2021-04-08 08:03:57 PM
 tags:
     - covid-19
-    - working
+    - work
 ---
 
 A "return to work" was recently announced.  Since I've been working remotely for more than a year now, it is really a return to the office.  I last worked in the office full time in mid-March 2020.   I stopped over in June 2020 to pick up my office plants.  While my boss kept up with the weekly watering, I wasn't getting the same benefit.  I'm happy to say that most of the plants survived.  I've got a jade plant that is doing remarkably well in my home office.

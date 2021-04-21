@@ -1,8 +1,7 @@
 ---
 title: Tour De Cure 2007, The Aftermath
 date: 2007-06-11 08:03:42 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Yesterday, Rachel and I rode in the American Diabetes Association's Tour de Cure 2007. We signed up to do the 10K ride. We had a good time, but we should have done more preparation. Last year, 10K was a breeze. Of course, that was because we had been doing a lot of riding. This year, we had only one or two rides before the event. Consequently, I had to struggle to make it through. But, aside from a slight sunburn, we both turned out okay.

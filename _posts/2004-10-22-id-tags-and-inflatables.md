@@ -1,8 +1,7 @@
 ---
 title: Id Tags And Inflatables
 date: 2004-10-22 03:24:48 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 When we got our dog Emily, we had problems seeing her in our backyard at night. She has a dark coat and at the time we didn't have much lighting in the back yard. So, we picked up a flashing ID tag at the local PETsMART. The tag is pretty cool. It only lights up when it's dark and when there is motion. This is exactly what we wanted.

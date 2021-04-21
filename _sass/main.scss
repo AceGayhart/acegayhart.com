@@ -20,6 +20,11 @@
   --shadow: grey;
 }
 
+code {
+  background-color: var(--primaryLight);
+  font-weight: bold;
+}
+
 html { background: var(--pageBackground)}
 
 body {

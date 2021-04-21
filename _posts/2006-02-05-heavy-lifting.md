@@ -1,8 +1,7 @@
 ---
 title: Heavy Lifting
 date: 2006-02-05 05:35:29 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 One of my resolutions for this year was to ease back into my exercise program. This week I added strength training (weight lifting) and started with the lightest weights that I have. I can easily lift more weight, but limiting the weight and repetitions will help prevent me from overdoing it. Obviously, I will increase the weight and repetitions at steady intervals until I hit my max. Then, I will do increases in weights and/or repetitions as I become stronger.

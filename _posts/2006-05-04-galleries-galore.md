@@ -1,8 +1,7 @@
 ---
 title: Galleries Galore
 date: 2006-05-04 10:50:41 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I just finished putting up a new photo gallery. I still have a bit of tweaking to do. But, it is done for the most part. The new gallery can handle more pictures and has a better slideshow feature. In addition, people can create user accounts. Registered users will be able to view larger, higher quality pictures, rate the pictures, and add comments. Registered users will also be able to have their pictures printed by a printing company.

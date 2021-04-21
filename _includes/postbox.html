@@ -1,7 +1,14 @@
 <strong>{{ post.title }}</strong> <span style="font-size:smaller;">({{ post.date | date: "%B %e, %Y %r" }})</span><br/>  
-    {{ post.excerpt }}{% assign sorted_categories = post.categories | sort %} {% assign sorted_tags = post.tags | sort %} {% if sorted_categories.size > 0 or sorted_tags.size > 0 %}
-    <p style="font-size: smaller;">{% if sorted_categories.size > 0 %}
-      Categories:{% for category in sorted_categories %} [<a href="/category/{{category | downcase | replace:' ','-' }}">{{category | downcase | replace:' ','-' }}</a>]{% endfor %}{% endif %}{% if sorted_tags.size > 0 %}
-      Tags:{% for tag in sorted_tags %} [<a href="/tag/{{tag | downcase | replace:' ','-' }}">{{tag | downcase | replace:' ','-' }}</a>]{% endfor %}{% endif %}</p>{% endif %}
+    {{ post.excerpt }}
+    
+    {%- assign sorted_tags = post.tags | sort -%}
+    {% if sorted_tags.size > 0 %}
+    <p style="font-size: smaller;">
+      Tags:
+      {% for tag in sorted_tags %}
+        [<a href="/tag/{{tag | downcase | replace:' ','-' }}">{{tag | downcase | replace:' ','-' }}</a>]
+      {% endfor %}
+      </p>
+      {% endif %}
     <p><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read this article →</a></p>
     <br />

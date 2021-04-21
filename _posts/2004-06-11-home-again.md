@@ -1,8 +1,7 @@
 ---
 title: Home Again
 date: 2004-06-11 12:37:49 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 We brought home the dogs from being boarded yesterday. The person at the front desk said that they were good, for the most part. Apparently Kara and Kelly managed to crawl underneath the barrier separating them and another dog. The person had said that's the first time that has ever happened and they're still trying to figure out how the dogs got through. Anyway, the dogs were very happy to come home. They were smiling the entire trip. They must have enjoyed their "therapeutic baths" that they received during their stay.

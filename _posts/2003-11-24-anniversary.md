@@ -1,8 +1,7 @@
 ---
 title: Anniversary
 date: 2003-11-24 09:19:36 AM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Since my wife and I were both unable to take time off this week (due to the Thanksgiving holiday), we decided to take vacation time last week to celebrate our two-year anniversary (today). We were planning to go out to dinner and watch some movies. Unfortunately, things didn't turn out quite the way we wanted to. However, we still had a fairly good week:

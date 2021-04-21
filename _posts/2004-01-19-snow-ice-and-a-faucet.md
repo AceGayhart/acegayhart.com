@@ -1,8 +1,7 @@
 ---
 title: Snow, Ice And A Faucet
 date: 2004-01-19 02:13:38 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 It has been a fairly cold couple of weeks. I couldn't see out the side mirrors of my truck because they were coated with ice. Fortunately for me since I work at home my wife does most of the driving. I don't mind driving in rain or even snow. But, once the roads get covered with ice I leave the driving to other people. Aside from driving, I do enjoy the wintry weather even if it means that I have to shovel the driveway up to three times a day.

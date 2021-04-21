@@ -1,8 +1,7 @@
 ---
 title: From Utah To Colorado
 date: 2005-09-24 10:45:42 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 Today's journey on the train was uneventful (read relaxing). Rachel and I got up around 6:30 and headed down to breakfast. I do not remember what she ate, but I had a light breakfast. All of this rich food was starting to catch up with me.

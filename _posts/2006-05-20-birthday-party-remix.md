@@ -1,8 +1,7 @@
 ---
 title: Birthday Party Remix
 date: 2006-05-20 08:16:43 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 This week was a bit more exciting than the previous week. Of course, exciting does not necessarily mean enjoyable. On Tuesday, I had two filling replaced. Even though half my mouth and tongue were numb for a few hours, it did not seem like they used enough novocaine. It felt like they hit a nerve or two.

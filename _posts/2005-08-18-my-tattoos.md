@@ -1,8 +1,7 @@
 ---
 title: My Tattoos
 date: 2005-08-18 05:06:00 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 For those observant people who check my photo gallery, you may have noticed something: I had my body tattooed, not once, but twice! The people who have seen my tattoos have asked many questions about them. I will just post the most popular ones:

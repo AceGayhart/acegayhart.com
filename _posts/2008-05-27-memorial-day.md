@@ -1,8 +1,7 @@
 ---
 title: Memorial Day
 date: 2008-05-27 08:15:00 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I hope everyone had a safe holiday weekend. I did not do too much. I mostly stayed inside and worked on school work. I am off of work for the next couple of weeks. So, I am hoping that things will stay quiet.

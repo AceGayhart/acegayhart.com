@@ -1,8 +1,7 @@
 ---
 title: Happy Thanksgiving
 date: 2005-11-24 06:09:07 PM
-category: Old Site
-tag: untagged
+tag: old site
 ---
 
 I hope that everyone had a happy and safe Thanksgiving. Rachel and I slept in most of the day. Around noon, we decided to get up and do something. We met Rachel's mom, brother, and grandmother at local restaurant. I had their special Thanksgiving buffet dinner. It included turkey, gravy, cranberry sauce, macaroni salad, ham, garlic sausage, turkey soup, green salad, and pumpkin cake. The food was extremely filling. I probably will end up skipping dinner and tomorrow's breakfast.
