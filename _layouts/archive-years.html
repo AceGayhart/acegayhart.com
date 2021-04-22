@@ -2,8 +2,5 @@
 layout: default
 title: Archive
 ---
-
-<main>
-    <h2>Archive of posts from <span>{{ page.title }}</span></h2>
+    <h1>Archive of posts from <span>{{ page.title }}</span></h1>
     {%- for post in site.posts -%}{%- assign postyear = post.date | date: "%Y" -%}{%- if postyear == page.year -%}{%- include postbox.html -%}{%- endif -%}{%- endfor -%}
-</main>

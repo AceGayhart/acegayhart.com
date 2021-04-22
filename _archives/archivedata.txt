@@ -2,7 +2,7 @@
 layout: empty
 ---
 {
-  "categories": [],
+  "categories": [ "uncategorized"],
   "tags": [
   {% for tag in site.tags %}
     "{{ tag[0] }}"{% unless forloop.last %},{% endunless %}

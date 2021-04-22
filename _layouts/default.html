@@ -30,8 +30,10 @@
     {% include navigation.html %}
    <p>Thank you for the visit!  I am still working on theming.  Your patience is most appreciated.</p> 
   </header>
-
-  {{ content }}
+  <main>
+    {{ content }}
+  </main>
+  
   <aside id="Archives">
     <h1>Archives</h1>
 
@@ -49,6 +51,6 @@
       <span class="archive-item"><a href="/tag/{{ t | downcase | replace: ' ', '-' }}">{{ t | downcase | replace: ' ', '-' }} ({{ posts | size }})</a></span>
     {% endfor %}
   </aside>
-  <footer>&copy;Copyright <a href="/">Ace Gayhart</a> 2003&ndash;{{ site.time | date: '%Y' }}.  All Rights Reserved</footer>
+  <footer>&copy; Copyright <a href="/about">Ace Gayhart</a> 2003&ndash;{{ site.time | date: '%Y' }}.  All Rights Reserved</footer>
 </body>
 </html>

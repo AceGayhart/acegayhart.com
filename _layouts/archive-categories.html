@@ -4,6 +4,6 @@ title: Archive
 ---
 
 <main>
-    <h2>Archive of posts categorized &ldquo;{{ page.title }}&rdquo;</h2>
+    <h1>Archive of posts categorized &ldquo;{{ page.title }}&rdquo;</h1>
     {%- for post in site.posts -%}{%- if post.categories contains page.category or post.category == page.category -%}{%- include postbox.html -%}{%- endif -%}{%- endfor -%}
 </main>

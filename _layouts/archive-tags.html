@@ -3,7 +3,6 @@ layout: default
 title: Archive
 ---
 
-<main>
-    <h2>Archive of posts tagged &ldquo;{{ page.title }}&rdquo;</h2>
+
+    <h1>Archive of posts tagged &ldquo;{{ page.title }}&rdquo;</h1>
     {%- for post in site.posts -%}{%- if post.tags contains page.tag or post.tag == page.tag -%}{%- include postbox.html -%}{%- endif -%}{%- endfor -%}
-</main>
