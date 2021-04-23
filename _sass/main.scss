@@ -20,18 +20,13 @@
   --shadow: grey;
 }
 
-code {
-  background-color: var(--primaryLight);
-  font-weight: bold;
-}
-
 html { background: var(--pageBackground)}
 
 body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1em;
-  max-width: 100ch;
+  max-width: 120ch;
   display: grid;
   grid-template-areas:
     "header"
@@ -146,13 +141,13 @@ footer {
       "header header"
       "main archives"
       "footer footer";
-    grid-template-columns: 65ch 1fr;
+    grid-template-columns: 70% 30%;
   }
 
   header img {
     height: 150px;
     width: 150px;
-  }
+  } 
 }
 
 
