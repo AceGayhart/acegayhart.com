@@ -15,5 +15,5 @@ This repo is a Jekyll-based blog hosted at <https://acegayhart.com>.
 - [X] Post excerpts as cards
 - [ ] Open Graph tags for sharing
 - [ ] Google Search?
-- [ ] Google Analytics
+- [X] Google Analytics
 - [ ] Credits page?
