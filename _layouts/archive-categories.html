@@ -5,5 +5,5 @@ title: Archive
 
 <main>
     <h1>Archive of posts categorized &ldquo;{{ page.title }}&rdquo;</h1>
-    {%- for post in site.posts -%}{%- if post.categories contains page.category or post.category == page.category -%}{%- include postbox.html -%}{%- endif -%}{%- endfor -%}
+    {%- for post in site.posts -%}{%- if post.categories contains page.category or post.category == page.category -%}{%- include archive-single.html -%}{%- endif -%}{%- endfor -%}
 </main>

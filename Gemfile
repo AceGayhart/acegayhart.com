@@ -22,4 +22,5 @@ group :jekyll_plugins do
   gem 'jekyll-readme-index'
   gem 'jekyll-titles-from-headings'
   gem 'jekyll-relative-links'
+  gem 'jekyll-include-cache'
 end
