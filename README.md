@@ -4,7 +4,7 @@ This repo is a Jekyll-based blog hosted at <https://acegayhart.com>.
 
 ## Task List
 
-- [X Styling / theming
+- [X] Styling / theming
 - [X] Migration of old posts
 - [X] Date formatting
 - [X] Pagination
