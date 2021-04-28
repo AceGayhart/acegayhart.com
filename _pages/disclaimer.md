@@ -4,6 +4,7 @@ permalink: /disclaimer/
 layout: single
 read_time: true
 toc: true
+toc_label: "Disclaimer"
 toc_sticky: true
 last_modified_at: 2021-04-04 09:04:58 PM
 ---

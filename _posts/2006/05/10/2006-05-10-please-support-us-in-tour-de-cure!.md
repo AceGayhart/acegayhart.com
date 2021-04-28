@@ -12,6 +12,7 @@ More information on the American Diabetes Association, its programs, and diabete
 
 Both of us reached our goal of $100 apiece. But, you can still donate.
 
-[Removed outdated links.--*Ed*]
-
 If these links do not send you directly to our personal fund-raising pages, please cut and paste the entire link, from beginning to end, into your Web browser and hit return.
+
+Removed outdated links.--*Ed*.
+{: .notice }

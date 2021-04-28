@@ -11,4 +11,5 @@ It is difficult to believe that another month has already passed. Fortunately, w
 
 I am still waiting for my degree. If I can get a student loan or scholarship for about $7,200, I will be able to get my degree. It is so frustrating to be unable to receive my degree due to a lack of money. It is equally frustrating not to be able to start a new degree.
 
-[This excerpt was all that was recovered from archive.--*Ed*.]
+This excerpt was all that was recovered from archive.--*Ed*.
+{: .notice }

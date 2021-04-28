@@ -8,4 +8,5 @@ On Friday, April 16, my wife and I captured an event that inadvertently became a
 
 I posted the video for three reasons: First, it was an awesome (and terrifying) scene in every sense of the word. I think my heart skipped a beat when I saw it. I think that the operator probably had a much greater reaction.
 
-[This excerpt was all that was recovered from archive.--*Ed*.]
+This excerpt was all that was recovered from archive.--*Ed*.
+{: .notice }

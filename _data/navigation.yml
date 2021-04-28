@@ -11,9 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  - title: "Home"
-    url: /
-    description: "Back to Home"
+
   - title: "About"
     url: /about
     description: "About Ace Gayhart"
@@ -21,4 +19,3 @@ main:
     url: /years
   - title: "Posts by Tag"
     url: /tags
-

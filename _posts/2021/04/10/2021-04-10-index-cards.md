@@ -34,4 +34,5 @@ Since I have a metal whiteboard, I started thinking about magnets.  I eventually
 
 The holders I got fit very snuggly. I tried sliding the cards in, but it was a bit too snug.  I ended up bending the holders backward to insert the cards.  The end result is that it is easy to write on the cards, stick them on the wall, and quickly rearrange them.
 
-[Note that I may earn a small commission from affiliate links.]
+**Note:** I may earn a small commission from affiliate links.
+{: .notice }

@@ -12,4 +12,5 @@ I need a break. A few Fridays ago, Rachel started feeling sick. A few days later
 
 I was starting to get back to normal when my mother-in-law called Friday night. She was suffering from bad indigestion and was having a panic attack. Her indigestion medication only made problems worse. We ended up calling the rescue squad and going to the hospital.
 
-[This excerpt was all that was recovered from archive.--*Ed*.]
+This excerpt was all that was recovered from archive.--*Ed*.
+{: .notice }
