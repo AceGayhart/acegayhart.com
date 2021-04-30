@@ -11,9 +11,10 @@ This repo is a Jekyll-based blog hosted at <https://acegayhart.com>.
 - [X] About page
 - [X] Coding block styling
 - [X] Navigation
-- [ ] Light / Dark themes
 - [X] Post excerpts as cards
-- [ ] Open Graph tags for sharing
-- [ ] Google Search?
 - [X] Google Analytics
-- [ ] Credits page?
+- [X] Credits page?
+- [X] Open Graph tags for sharing
+- [ ] Light / Dark themes
+- [ ] Google Search?
+- [ ] Logo / icon?
