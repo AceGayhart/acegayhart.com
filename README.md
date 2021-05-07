@@ -18,3 +18,4 @@ This repo is a Jekyll-based blog hosted at <https://acegayhart.com>.
 - [ ] Light / Dark themes
 - [ ] Google Search?
 - [ ] Logo / icon?
+- [ ] Storage structure for photos
