@@ -6,3 +6,20 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+figure.post-image {
+    border: $border-color solid 1px;
+    border-radius: $border-radius;
+    background-color: $background-color;
+    padding: 0.2rem;
+    box-shadow:
+        0 0 1px $border-color,
+        1px 1px 1px 1px $primary-color;
+    @include breakpoint($small) {
+        width: calc(33.3333% - 0.5em);
+    }
+     
+    figcaption {
+        color: $primary-color;
+    }
+}
