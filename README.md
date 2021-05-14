@@ -16,6 +16,6 @@ This repo is a Jekyll-based blog hosted at <https://acegayhart.com>.
 - [X] Credits page?
 - [X] Open Graph tags for sharing
 - [ ] Light / Dark themes
-- [ ] Google Search?
+- [X] Google Search?
 - [ ] Logo / icon?
-- [ ] Storage structure for photos
+- [X] Storage structure for photos
