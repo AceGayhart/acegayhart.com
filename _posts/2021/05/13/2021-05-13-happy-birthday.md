@@ -6,7 +6,7 @@ tags:
     - family
 header:
     overlay_image: /assets/posts/2021-05-13-happy-birthday/annie-spratt-M20ylqCzSZw-unsplash.jpg
-    og-image: /assets/posts/2021-05-13-happy-birthday/employee-of-the-month.jpg
+    og_image: /assets/posts/2021-05-13-happy-birthday/employee-of-the-month.jpg
     caption: "Photo by [Annie Spratt](https://unsplash.com/@anniespratt) on [**Unsplash**](https://unsplash.com/photos/M20ylqCzSZw)"
     
 ---
