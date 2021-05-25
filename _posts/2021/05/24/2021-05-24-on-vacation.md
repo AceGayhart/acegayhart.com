@@ -8,7 +8,7 @@ tags:
 header:
     overlay_image: /assets/posts/2021-05-24-on-vacation/steph-q-s8ebg13PGIM-unsplash.jpg
     caption: "Photo by [Steph Q](https://unsplash.com/@stephjq) on [**Unsplash**](https://unsplash.com/photos/s8ebg13PGIM)"    
-tagline: "How does one actually shutdown, relax, and recharge?"
+tagline: "How does one actually shut down, relax, and recharge?"
 ---
 
 One thing I do not do an excellent job is using all my vacation days.  I receive about fourteen holidays with federal holidays and the week between Christmas and New Year's Day.  On top of that, I receive twenty vacation days, fifteen six days, and four personal days yearly.  This is far more time off than I've received elsewhere.  Usually, I've gotten about ten vacation days (and some holidays a year).
@@ -23,4 +23,4 @@ As it got close to the end of this fiscal year, I realized I had about thirty va
 
 I've noticed the after a few weeks, my work life is a bit less hectic.  Working only two days a week (okay, a bit more than that), this is expected.  I've also noticed that it is even more challenging to remember what day it is.  During the pandemic, I'm sure many have forgotten the day of the week.  Working about every other day just exacerbates that problem.
 
-My next challenge is to figure out how to shutdown, relax, and recharge.  At least I have at least 15 more vacation days to figure that out. 😆
+My next challenge is to figure out how to shut down, relax, and recharge.  At least I have at least 15 more vacation days to figure that out. 😆
