@@ -1,6 +1,6 @@
 ---
 title: Time for a Change
-date: 2021-07-30 05:00:01 PM
+date: 2021-07-30 10:51:06 AM
 tags:
     - work
     - vacation
@@ -19,7 +19,7 @@ Unfortunately, the 2008 housing market bubble burst, and I was suddenly looking 
 
 So, in late 2008, I started my job search.  Since I had been rather fortunate in finding employment previously, I wasn't quite sure where to start or where I would end up.  Eventually, [I found a position](/2009/01/15/new-job/) at Cuyahoga Community College (Tri-C).
 
-I started in what used to be called the Distance Learning department.  My initial responsibilities were to troubleshoot and maintain existing custom software.  Over time, I took over ownership of development and server maintenance. 
+I started in what used to be called the Distance Learning department.  My initial responsibilities were to troubleshoot and maintain existing custom software.  Over time, I took over ownership of development and server maintenance.
 
 Eventually, I built up a good working relationship with the Information Technology Services (ITS) department.  In early 2012, I transferred to ITS proper.  I continued maintaining applications for the Distance Learning department.  But, also became responsible for ~30 servers as well as developing College-wide applications.
 
@@ -29,10 +29,12 @@ Now, I'm about to begin a new journey.  The ongoing pandemic has changed my pers
 
 It is difficult to leave what has been a stable and rewarding position.  I will miss not only the people on my team but my peers on the leadership team also.  I've heard that people leave bosses and not jobs.  While that is true for many, it's not true in this particular case.  In fact, Tri-C gave a similar option last year.  One of the reasons I didn't take the buyout option the previous year is that I enjoy working with my boss everyone in ITS' leadership team.
 
+Someday, I may list all the reasons why I left and what I considered before leaving.  However, I am intentionally giving some time to let emotions and feelings settle.
+
 My last day is today, July 30, 2021.  I will still be teaching both at Tri-C and SNHU.  But, for a few months, that will be the limit of my work responsibilities.  In the immediate future, I'll be taking a much-needed vacation.
 
 This is one thing that the pandemic has illuminated: I need a better work/life balance.  Actually, I think that "balance" is a myth.  What I want to work toward is a better work/life *blend*.  Being able to work remotely for the last year or so has helped me better achieve that blend.  Instead of commuting, I spend that time getting more sleep and taking walks with my wife.
 
-I'm still not quite sure what to be when I "grow up."  There are many jobs where I would be a fantastic candidate.  But that doesn't mean that it would be the best place for me.  I'm hoping to get some clarity while I'm on vacation.  But, that hasn't stopped me from connecting with recruiters and doing regular interviews.
+I'm still not quite sure what to be when I "grow up."  There are many jobs where I would be a fantastic candidate.  But that doesn't mean that it would be the best place for *me*.  I'm hoping to get some clarity while I'm on vacation.  But, that hasn't stopped me from connecting with recruiters and doing regular interviews.
 
-I'm not sure what the next step in my career will be.  But, I am excited about the new adventure.
+I'm not sure what the next step in my career will be.  But, I am excited about the next chapter.
