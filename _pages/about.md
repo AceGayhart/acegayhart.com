@@ -17,4 +17,6 @@ not represent the opinions of people, institutions, or organizations that Ace ma
 personally or professionally.  Any views or opinions are not intended to malign any religion, ethnic group, club,
 organization, company, or individual.
 
+I'm not expecting anyone to email me.  But, you can send emails to blog [at] acegayhart.com.
+
 For more details, please  [view our disclaimer](/disclaimer/).
