@@ -3,8 +3,7 @@ title: Interviewing
 date: 2021-09-14 10:07:03 AM
 tag: work    
 header:
-    overlay_image: /assets/posts/2021-09-14-interviewing/kate-sade-2zZp12ChxhU-unsplash.jpg
-    
+    overlay_image: /assets/posts/2021-09-14-interviewing/kate-sade-2zZp12ChxhU-unsplash.jpg    
     caption: "Photo by [kate.sade](https://unsplash.com/@kate_sade) on [**Unsplash**](https://unsplash.com/photos/2zZp12ChxhU)"
     show_overlay_excerpt: false
 ---
