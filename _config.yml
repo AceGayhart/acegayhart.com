@@ -84,7 +84,7 @@ social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : "Ace Gayhart" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://twitter.com/AceGayhart
+    - https://techhub.social/@AceGayhart
     - https://www.linkedin.com/in/AceGayhart/
     - https://github.com/AceGayhart/
 
@@ -104,52 +104,28 @@ author:
   location         : "Northeast Ohio, USA"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:email@example.com?Subject=You%20can%20email%20me%20at%20blog%20at%20acegayhart.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AceGayhart"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AceGayhart"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://techhub.social/@AceGayhart"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/AceGayhart/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AceGayhart"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AceGayhart"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AceGayhart"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://techhub.social/@AceGayhart"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/AceGayhart/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AceGayhart"
 
 # Reading Files
 include:

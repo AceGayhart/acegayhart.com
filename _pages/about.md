@@ -4,19 +4,15 @@ title: About
 permalink: /about/
 author_profile: true
 ---
-Ace Gayhart is the Director of Application Development Services at [Cuyahoga Community College (Tri-C)](https://www.tri-c.edu/). He has over 25 years of experience writing software professionally.  In his current role, he leads the application development team in software development and application maintenance.
 
-Ace also uses his passion for technology and education to teach [Southern New Hampshire University (SNHU)](https://www.snhu.edu/) students various IT topics in
-their graduate program.
+Ace Gayhart is a seasoned Principal Software Engineer at [SmartSense by Digi](https://www.smartsense.co/), with over 25 years of experience in the field. His passion for technology and education complements his expertise in software engineering. He dedicates his spare time to teaching students at [Southern New Hampshire University (SNHU)](https://www.snhu.edu/) in undergraduate and graduate IT programs.
 
-Ace holds a Master of Science in Information Systems & Technology Management from Capella University and a Bachelor
-of Science degree from Kaplan University.
+Ace has earned a Master of Science in Information Systems & Technology Management from Capella University and a Bachelor of Science degree from Kaplan University, further solidifying his knowledge and skills in the industry.
 
-It should go without saying, but *this is a personal blog*.  Ace's views and opinions are his own.  They do
-not represent the opinions of people, institutions, or organizations that Ace may or may not be associated with
-personally or professionally.  Any views or opinions are not intended to malign any religion, ethnic group, club,
-organization, company, or individual.
+This blog serves as a platform for Ace to share his thoughts and insights on various topics. It's important to note that the views and opinions expressed here are solely Ace's own and do not represent those of any people, institutions, or organizations he may be associated with, personally and professionally. The content here is not intended to malign any religion, ethnic group, club, organization, company, or individual.
 
-I'm not expecting anyone to email me.  But, you can send emails to blog [at] acegayhart.com.
+Please be aware that this blog may contain forward-looking statements based on Ace's personal opinions and should not be considered financial or investment advice. These statements are subject to risks and uncertainties that may cause actual results to differ materially from those expressed or implied. Readers are advised to conduct their research and consult with a professional financial advisor before making any investment decisions based on the content of this blog.
 
-For more details, please  [view our disclaimer](/disclaimer/).
+While Ace doesn't expect to receive many emails, he welcomes your thoughts and inquiries. You can reach out to him at blog [at] acegayhart.com.
+
+Please take a moment to [review the blog's disclaimer](/disclaimer/) for more information.
