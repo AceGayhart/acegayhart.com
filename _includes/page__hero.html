@@ -20,6 +20,10 @@
 
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
   style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+{% if page.header.overlay_description %}  
+  role="img"
+  aria-label="{{ page.header.overlay_description }}"
+{% endif %}
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
