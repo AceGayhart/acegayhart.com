@@ -13,6 +13,8 @@
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/BlogPosting"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+    {% if post.date %}<meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{% endif %}
+    {% if post.url %}<meta itemprop="url" content="{{ post.url | absolute_url }}">{% endif %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
