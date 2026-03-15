@@ -29,7 +29,7 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
     {% assign page_image = page.header.og_image | default: page.header.overlay_image | default: page.header.image | default: site.og_image %}
     {% if page_image %}<meta itemprop="image" content="{{ page_image | absolute_url }}">{% endif %}
-    <span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="{{ site.author.name }}"></span>
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="{{ site.author.name }}"><meta itemprop="url" content="{{ '/' | absolute_url }}"></span>
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
