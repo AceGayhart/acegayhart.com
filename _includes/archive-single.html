@@ -15,6 +15,9 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/BlogPosting"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if post.date %}<meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">{% endif %}
     {% if post.url %}<meta itemprop="url" content="{{ post.url | absolute_url }}">{% endif %}
+    {% assign post_image = post.header.og_image | default: post.header.overlay_image | default: post.header.image | default: site.og_image %}
+    {% if post_image %}<meta itemprop="image" content="{{ post_image | absolute_url }}">{% endif %}
+    <span itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="{{ site.author.name }}"></span>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
