@@ -68,7 +68,8 @@
     float: inline-start;
     margin-inline-start: -1px;
 
-    a {
+    a,
+    span {
       display: block;
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
