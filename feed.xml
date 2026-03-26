@@ -11,6 +11,11 @@
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
 
+  {% if site.og_image %}
+    <icon>{{ site.og_image | absolute_url | xml_escape }}</icon>
+    <logo>{{ site.og_image | absolute_url | xml_escape }}</logo>
+  {% endif %}
+
   {% assign title = site.title | default: site.name %}
   {% if title %}
     <title type="html">{{ title | smartify | xml_escape }}</title>
