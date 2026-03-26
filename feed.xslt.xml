@@ -1,0 +1,152 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="3.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
+  <xsl:template match="/">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+      <head>
+        <title><xsl:value-of select="/atom:feed/atom:title"/> — Feed</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <style>
+          * { box-sizing: border-box; margin: 0; padding: 0; }
+          body {
+            font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #eaeaea;
+            background: #252a34;
+          }
+          .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+          }
+          .banner {
+            background: #1a1f27;
+            border: 1px solid #3d4350;
+            border-radius: 4px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+          }
+          .banner p {
+            margin: 0;
+            font-size: 0.9rem;
+            color: #b0b0b0;
+          }
+          .banner p a {
+            color: #00adb5;
+          }
+          .banner p a:hover {
+            color: #5ac5c0;
+          }
+          h1 {
+            font-size: 1.5rem;
+            margin-bottom: 0.25rem;
+          }
+          h1 a {
+            color: #eaeaea;
+            text-decoration: none;
+          }
+          h1 a:hover {
+            color: #00adb5;
+          }
+          .subtitle {
+            color: #b0b0b0;
+            margin-bottom: 2rem;
+          }
+          .entry {
+            display: flex;
+            gap: 1rem;
+            padding: 1.25rem 0;
+            border-top: 1px solid #3d4350;
+          }
+          .entry-image {
+            flex-shrink: 0;
+            width: 80px;
+            height: 80px;
+            border-radius: 4px;
+            object-fit: cover;
+          }
+          .entry-content {
+            flex: 1;
+            min-width: 0;
+          }
+          .entry-title {
+            font-size: 1.1rem;
+            margin-bottom: 0.25rem;
+          }
+          .entry-title a {
+            color: #4ab5ba;
+            text-decoration: none;
+          }
+          .entry-title a:hover {
+            color: #5ac5c0;
+            text-decoration: underline;
+          }
+          .entry-date {
+            font-size: 0.85rem;
+            color: #888;
+            margin-bottom: 0.5rem;
+          }
+          .entry-summary {
+            font-size: 0.9rem;
+            color: #c0c0c0;
+          }
+        </style>
+      </head>
+      <body>
+        <div class="container">
+          <div class="banner">
+            <p><strong>This is a web feed</strong>, also known as an RSS or Atom feed. <strong>Subscribe</strong> by copying the URL from the address bar into your feed reader.</p>
+          </div>
+          <h1>
+            <a>
+              <xsl:attribute name="href">
+                <xsl:value-of select="/atom:feed/atom:link[@rel='alternate']/@href"/>
+              </xsl:attribute>
+              <xsl:value-of select="/atom:feed/atom:title"/>
+            </a>
+          </h1>
+          <p class="subtitle"><xsl:value-of select="/atom:feed/atom:subtitle"/></p>
+          <xsl:for-each select="/atom:feed/atom:entry">
+            <div class="entry">
+              <xsl:if test="media:thumbnail">
+                <img class="entry-image">
+                  <xsl:attribute name="src">
+                    <xsl:value-of select="media:thumbnail/@url"/>
+                  </xsl:attribute>
+                  <xsl:attribute name="alt">
+                    <xsl:value-of select="atom:title"/>
+                  </xsl:attribute>
+                </img>
+              </xsl:if>
+              <div class="entry-content">
+                <div class="entry-title">
+                  <a>
+                    <xsl:attribute name="href">
+                      <xsl:value-of select="atom:link[@rel='alternate']/@href"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="atom:title"/>
+                  </a>
+                </div>
+                <div class="entry-date">
+                  <xsl:value-of select="substring(atom:published, 1, 10)"/>
+                </div>
+                <xsl:if test="atom:summary">
+                  <div class="entry-summary">
+                    <xsl:value-of select="atom:summary"/>
+                  </div>
+                </xsl:if>
+              </div>
+            </div>
+          </xsl:for-each>
+        </div>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
