@@ -1,9 +1,6 @@
 ---
 title: Trip to COSI
 date: 2025-06-05 03:43:56 PM
-tags:
-  - vacation
-  - personal
 
 gallery-galaxies:
   - url: /assets/posts/2025-06-05-trip-to-cosi/img_4562.jpg
@@ -114,6 +111,10 @@ gallery-dinos:
     image_path: /assets/posts/2025-06-05-trip-to-cosi/img_2092.jpg
     title: 'Towering T-Rex skeleton in dramatic attack pose with circular viewing area'
     alt: 'Towering T-Rex skeleton in dramatic attack pose with circular viewing area'
+tags:
+  - personal
+  - travel
+  - vacation
 ---
 
 Recently, Rachel mentioned that she wanted to see the [Unofficial Galaxies](https://cosi.org/unofficial-galaxies/) exhibit at [COSI](https://cosi.org/). Since I still have challenges with taking a break and use PTO, I said let's spend a few days there.
