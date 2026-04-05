@@ -1,23 +1,24 @@
 ---
 title: Moss Ball Pet
 date: 2021-05-07 10:51:03 PM
-tags:
-  - birthday
-  - pets  
 header:
   overlay_image: /assets/posts/2021-05-07-moss-ball-pet/moss-ball-pet.jpg
   show_overlay_excerpt: false
+tags:
+  - birthday
+  - family
+  - pets
 ---
 
 Even though my birthday is about a week away, Rachel decided to give me an early present. We were in the living room when she received a delivery notification. Even though I knew she was buying me gifts, I had no clue what she was getting. When she brought the package into the house, she allowed me to open it now or open it on my birthday.
 
-She also said my gift was *alive*!
+She also said my gift was _alive_!
 
 I think she was relieved when I said I'd open it then. I suspect she didn't want to be responsible for keeping it alive for the next week. I opened the block and saw a glass block similar to the ones I've seen in buildings. The block was hollow and had a tiny twig inside. Next, I pulled out a bag of crushed glass. It reminded me of ice cubes. The bag also had a sea shell inside.
 
 Finally, there was a green glob in a vacuum-sealed container. Curiouser and curiouser!
 
-What I came to eventually realize is that I was the owner of a new [Moss Ball pet](https://mossballpets.com/).  I had never heard of them before, but they are essentially a [form of algae](https://mossballpets.com/blogs/news/unmasking-the-mysteries-of-moss-ball-pets). I had never heard of them before, but they are essentially a [form of algae](https://mossballpets.com/blogs/news/unmasking-the-mysteries-of-moss-ball-pets). Apparently, with a bit of care and feeding, they can last up to 200 years. I'm hoping it will last at least a few years for me.
+What I came to eventually realize is that I was the owner of a new [Moss Ball pet](https://mossballpets.com/). I had never heard of them before, but they are essentially a [form of algae](https://mossballpets.com/blogs/news/unmasking-the-mysteries-of-moss-ball-pets). Apparently, with a bit of care and feeding, they can last up to 200 years. I'm hoping it will last at least a few years for me.
 
 We rinsed out the glass block and the crushed glass. I added the crushed glass to the container and then filled it about halfway with water. Next, we opened the Moss Ball container and added it in. Finally, we added the twig and filled the remaining space with water.
 
