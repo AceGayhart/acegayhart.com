@@ -1,14 +1,15 @@
 ---
 title: Anniversary Week
 date: 2024-12-05 07:30:49 AM
-tags:
-  - personal
-  - Thanksgiving
-  - anniversary
 header:
   overlay_image: /assets/posts/2024-12-05-anniversary-week/boliviainteligente-zULmo_Yxu-0-unsplash.jpg
   caption: 'Photo by [BoliviaInteligente](https://unsplash.com/@boliviainteligente) on [**Unsplash**](https://unsplash.com/photos/a-flat-screen-tv-sitting-on-top-of-a-entertainment-center-zULmo_Yxu-0)'
   show_overlay_excerpt: false
+tags:
+  - anniversary
+  - holiday
+  - personal
+  - Thanksgiving
 ---
 
 Last week was Thanksgiving in the US and, for my wife and I, our twenty-third anniversary. As we did [last year](/2023/11/26/anniversary-week/), we stayed home for the week and caught up on some media. This time, I made sure to keep track of what we watched:

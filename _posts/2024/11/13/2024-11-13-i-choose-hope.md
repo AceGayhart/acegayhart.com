@@ -2,8 +2,8 @@
 title: I Choose Hope
 date: 2024-11-13 03:09:48 PM
 tags:
-  - political
   - personal
+  - politics
 ---
 
 The 2024 US Election was held just over a week ago. I'm disappointed that the elections didn't go the way I preferred. Regardless of what one thinks of the President-elect, he is undoubtedly a divisive figure.

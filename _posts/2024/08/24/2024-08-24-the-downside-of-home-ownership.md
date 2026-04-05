@@ -2,6 +2,7 @@
 title: The Downside of Home Ownership
 date: 2024-08-24 02:49:06 PM
 tags:
+  - home improvement
   - personal
 ---
 

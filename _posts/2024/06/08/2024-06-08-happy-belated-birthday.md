@@ -3,6 +3,7 @@ title: Happy Belated Birthday
 date: 2024-06-08 05:27:44 PM
 tags:
   - birthday
+  - personal
 ---
 
 My birthday was last month. I don't particularly appreciate celebrating it because it tends to be overshadowed or grouped with other celebrations. For example, with its closeness to Mother's Day, the holiday was usually the focus. When my younger sister was born on my seventh birthday, there were group celebrations from that point forward. And when my mom died a few days before a recent birthday, that brings a sad note to the time of year.
@@ -15,7 +16,7 @@ While I wasn't planning a theme, most of my gifts were plant-related. My first g
 
 {% include image name="img_0902.jpg" caption="Little Pickles (*Othonna capensis*)" %}
 
-It is an [*Othonna Capensis*](https://amzn.to/3VxB6dZ), also called a "Ruby Necklace." Though I like the "String of Pickles" nickname. It'll fit nicely in my office with the other plants.
+It is an [_Othonna Capensis_](https://amzn.to/3VxB6dZ), also called a "Ruby Necklace." Though I like the "String of Pickles" nickname. It'll fit nicely in my office with the other plants.
 
 Next, I got a set of [LEGO Succulents](https://amzn.to/3ySjd0V). They took me a few hours to put together.
 

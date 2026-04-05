@@ -1,8 +1,6 @@
 ---
 title: Winter Chill Out 2024
 date: 2024-02-26 10:29:55 PM
-tags:
-  - vacation
 
 gallery-entrance:
   - url: /assets/posts/2024-02-26-winter-chill-out-2024/entrance/img_0093.jpg
@@ -323,6 +321,9 @@ gallery-random:
     image_path: /assets/posts/2024-02-26-winter-chill-out-2024/random/img_0501.jpg
   - url: /assets/posts/2024-02-26-winter-chill-out-2024/random/img_0502.jpg
     image_path: /assets/posts/2024-02-26-winter-chill-out-2024/random/img_0502.jpg
+tags:
+  - Cedar Point
+  - vacation
 ---
 
 Rachel and I have attended [Cedar Point](https://www.cedarpoint.com/)'s [Winter Chill Out](https://www.cedarpoint.com/blog/2021-winter-chill-out) for a few years. It is an opportunity to see rides up close, sample some new food, and get a first-hand look at what's in store for the upcoming park season. All of the proceeds benefit [A Kid Again](https://akidagain.org/chapter/northern-ohio-chapter/).
@@ -383,7 +384,7 @@ We got to go through one of the [arcades](https://www.cedarpoint.com/rides-exper
 
 ## [Point Plaza](https://www.cedarpoint.com/shopping/point-plaza)
 
-We ended the tour at Point Plaza. We go there on virtually every Cedar Point trip. But, this was the first time they had items for Winter Chill Out. We got two sweatshirts. Rachel added to her button collection. The favorite was the mini seagull (with a french fry) to go with her other seagull plushes. We saw an employee walking around with one on her shoulder and figured  she had just sewed it to her jacket. However, it has a magnet and detachable base, making it easy to have it ride on your shoulder.
+We ended the tour at Point Plaza. We go there on virtually every Cedar Point trip. But, this was the first time they had items for Winter Chill Out. We got two sweatshirts. Rachel added to her button collection. The favorite was the mini seagull (with a french fry) to go with her other seagull plushes. We saw an employee walking around with one on her shoulder and figured she had just sewed it to her jacket. However, it has a magnet and detachable base, making it easy to have it ride on your shoulder.
 
 {% include gallery id="gallery-merch" %}
 
