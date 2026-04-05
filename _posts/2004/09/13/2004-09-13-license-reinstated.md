@@ -1,7 +1,10 @@
 ---
 title: License Reinstated
 date: 2004-09-13 01:12:00 PM
-tag: old site
+tags:
+  - driving
+  - personal
+  - pets
 ---
 
 Rachel got her driver's license reinstated on Thursday (though we didn't find out until I called the BMV on Friday). This means that I no longer have to spend two hours of my day (one hour in the morning and one in the evening) driving her to and from work. I do not mind driving her around, however it was disrupting my morning exercise routine.

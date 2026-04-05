@@ -1,7 +1,9 @@
 ---
 title: Happy Belated Independence Day
 date: 2004-07-05 09:00:50 PM
-tag: old site
+tags:
+  - holiday
+  - personal
 ---
 
 I hope that everyone had a safe Fourth of July. I spent the afternoon and most of the night at my parents-in-law's house. Since we were going to be away from the house for more than a couple of hours, we decided to take the entire family. We took a picture of Kara, Kelly and Emily in their crate ready to go. It's hard to tell in the picture, but each of them is wearing an American flag bandana. Also, each one of them is wearing an item that lights up. Emily has a dog bone, Kara has a picture of fireworks and Kelly has an American flag.

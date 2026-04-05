@@ -1,7 +1,8 @@
 ---
 title: Locked Out Of The House
 date: 2004-09-15 12:24:47 PM
-tag: old site
+tags:
+  - personal
 ---
 
 Yesterday, after work, I was sitting outside with the dogs. When Rachel came home from work, I asked if she wanted to take the dogs for a walk. She said that she did not mind. She went inside to grab the leashes and came back outside. As soon as she shut the door, she asked if I had my house keys on me. Unfortunately, neither of us had our keys. We look the dogs for their walk and then went back to try to get into the house.

@@ -1,7 +1,9 @@
 ---
 title: School And Weight Training
 date: 2004-07-13 10:27:48 AM
-tag: old site
+tags:
+  - education
+  - fitness
 ---
 
 After a couple of years of working on my Associate's Degree, I'm finally finished! The school received my final project last Friday and I got my grades yesterday. I earned a 100 percent on my final project and my GPA was 3.43. I'm now only waiting on my final transcript and my diploma, but at least there's nothing else I need to do or worry about.

@@ -1,7 +1,10 @@
 ---
 title: Busy, Busy, Busy
 date: 2004-11-06 11:58:24 PM
-tag: old site
+tags:
+  - education
+  - holiday
+  - personal
 ---
 
 (This is a long entry so please bear with me). This week has been extremely busy. But, as it is nearly midnight, the week is fortunately almost over. On Sunday, Rachel and I handed out candy for Halloween. One of the things that I like about our neighborhood is that there are set times for trick-or-treating. This year, the kids were allowed to go out between 6:00 PM and 8:00 PM. We got our first kid shortly after 6:00 PM. Forty-five minutes and thirty pounds of candy later, we were all out of candy. Unfortunately, we had to turn some people away. Next year, we'll need to hold some more of the candy in reserve so that we don't have to turn people away. My favorite costume this year was that of a Presidential candidate.
@@ -28,6 +31,6 @@ I can't wait until we get our new fencing. The other day, Rachel found that a se
 
 A while ago, while filling up our dogs' treat container, I inadvertently turned on one of the stovetop burners. Unfortunately, the treat container was sitting on top of that burner at the time. Since I can't always smell smoke, the container was pretty much ruined before I figured out what was going on. Rachel kept ribbing me about it for several days. Recently though, she inadvertently turned on one of the burners. As there was an empty pizza box sitting on the stove at the time, I gave her a hard time. She ripped all of the knobs off of the stove. That's probably a smart idea as it is now a pain in the butt to turn on the burners.
 
-The weather is slowly getting colder. We were supposed to get a bit of snow earlier this week, but we only received rain. *pout* Ah well, I'm sure that we'll get plenty of snow soon enough. I have been waiting to give our new heater system a good test. However, with appliances and such, the house stays well above sixty degrees. Hopefully it won't get extremely cold in the next couple of days though. I received a call from our gas company saying that they need to replace the gas meter. Apparently, the readings have been excessive. They think that since the meter is older than twenty-five years, it's probably broken.
+The weather is slowly getting colder. We were supposed to get a bit of snow earlier this week, but we only received rain. _pout_ Ah well, I'm sure that we'll get plenty of snow soon enough. I have been waiting to give our new heater system a good test. However, with appliances and such, the house stays well above sixty degrees. Hopefully it won't get extremely cold in the next couple of days though. I received a call from our gas company saying that they need to replace the gas meter. Apparently, the readings have been excessive. They think that since the meter is older than twenty-five years, it's probably broken.
 
 Tagline for today: "Did you know that it costs forty thousand dollars a year to house each prisoner? Jeez, for forty thousand bucks a piece I'll take a few prisoners into my house. I live in Los Angeles. I already have bars on the windows. I don't think we should give free room and board to criminals. I think they should have to run twelve hours a day on a treadmill and generate electricity. And if they don't want to run, they can rest in the chair that's hooked up to the generator." - Andy Rooney
