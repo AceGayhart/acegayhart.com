@@ -1,7 +1,9 @@
 ---
 title: Morning At The Doctor's Office
 date: 2003-09-09 12:14:29 PM
-tag: old site
+tags:
+  - education
+  - medical
 ---
 
 Well, so far it has been a long morning. I went with my wife to see the doctor (she's a Type 2 Diabetic). Anyway, it's the first time we've been to a doctor's office since the move from California. It was about a fifty minute drive in both directions. I had expected more traffic, but thankfully there wasn't much traffic. Of course, this meant that we arrived an hour early. This gave me a chance to work on some schoolwork.

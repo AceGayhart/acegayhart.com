@@ -1,7 +1,9 @@
 ---
 title: Web Server
 date: 2003-09-03 05:49:24 PM
-tag: old site
+tags:
+  - programming
+  - technology
 ---
 
 Well, I finally got Apache running on the Linux machine. It took me quite a while to get it running; I kept going around in circles. I suppose that it would have been easier if I had just read the documentation. Well, I may read it eventually. But for now, I'm having too much fun.

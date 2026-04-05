@@ -1,7 +1,8 @@
 ---
 title: National Dog Week
 date: 2003-09-22 08:51:52 AM
-tag: old site
+tags:
+  - pets
 ---
 
 Since this week is National Dog Week, I've decided to post a picture of my puppy dog. Her name is "Emily Jean". though we usually call her "Emmy". As I've mentioned before, she's a Beagle/Spring mix. She will be three years old on September 24th, 2003.
