@@ -1,7 +1,10 @@
 ---
 title: Hurricane Ike
 date: 2008-09-15 08:52:00 AM
-tag: old site
+tags:
+  - food
+  - home improvement
+  - weather
 ---
 
 Yesterday, Rachel and I were relaxing. The weather started okay, but quickly became quite windy. Apparently, remnants of hurricane Ike was passing through. A number of small branches and twigs came down.

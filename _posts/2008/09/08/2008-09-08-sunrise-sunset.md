@@ -1,7 +1,9 @@
 ---
 title: Sunrise, Sunset
 date: 2008-09-08 06:05:00 AM
-tag: old site
+tags:
+  - family
+  - personal
 ---
 
 Rachel and I wanted to get out of the house for a while. The only problem is that we do not have a lot of money. Therefore, any overnight trip is out of the question as it is expensive to board our three dogs. Of course, even if did not have to board the dogs, most trips would be too expensive.

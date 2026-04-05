@@ -1,7 +1,10 @@
 ---
 title: Happy Thanksgiving 2008
 date: 2008-11-28 09:33:00 PM
-tag: old site
+tags:
+  - holiday
+  - personal
+  - Thanksgiving
 ---
 
 Happy (belated) Thanksgiving! Still being unemployed, it is difficult to be thankful. However, I understand that times are tough for everyone. I am optimistic that I will be employed again shortly after the beginning of the year.

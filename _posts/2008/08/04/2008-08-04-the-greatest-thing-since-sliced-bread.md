@@ -1,7 +1,8 @@
 ---
 title: The Greatest Thing Since Sliced Bread
 date: 2008-08-04 07:23:00 AM
-tag: old site
+tags:
+  - food
 ---
 
 Lately, I have wanted to make some bread. Rachel and I used to own a bread machine. However, I did not like having a gaping hole in one end of the loaf. As such, we sold the machine around the time we moved from California to Ohio.

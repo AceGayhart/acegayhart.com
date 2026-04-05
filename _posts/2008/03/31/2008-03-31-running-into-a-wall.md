@@ -1,7 +1,9 @@
 ---
 title: Running Into A Wall
 date: 2008-03-31 10:05:00 AM
-tag: old site
+tags:
+  - fitness
+  - medical
 ---
 
 I know that runners occasionally talk about "hitting a wall." This usually means a sudden loss of energy. Yesterday, I "hit the wall" while jogging on my treadmill. I know I am in poor shape (right now), but this had nothing to do with my endurance. I literally hit the wall. Well, not quite.

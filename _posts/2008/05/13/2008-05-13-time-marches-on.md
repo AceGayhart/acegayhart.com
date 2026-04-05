@@ -1,7 +1,10 @@
 ---
 title: Time Marches On
 date: 2008-05-13 08:03:00 AM
-tag: old site
+tags:
+  - birthday
+  - family
+  - personal
 ---
 
 This past week has been relatively quiet. So far, my schoolwork has been easy; I do more complex stuff at work. Rachel and I recently finished The Simpsons Game on the Wii. I am still working on Super Paper Mario when Rachel is not home.
