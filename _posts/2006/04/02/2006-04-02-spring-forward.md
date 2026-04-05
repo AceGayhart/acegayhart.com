@@ -1,7 +1,9 @@
 ---
 title: Spring Forward
 date: 2006-04-02 02:12:01 PM
-tag: old site
+tags:
+  - family
+  - personal
 ---
 
 I hope that everyone remembered to "spring forward" his or her clocks an hour for Daylight Saving. We changed all of our clocks last night. Therefore, after turning off this morning's alarm, I "fell back" to bed. I also hope that nobody was badly pranked on April Fool's Day.

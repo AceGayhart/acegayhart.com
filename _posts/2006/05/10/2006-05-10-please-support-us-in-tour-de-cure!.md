@@ -1,7 +1,10 @@
 ---
 title: Please Support Us In Tour De Cure!
 date: 2006-05-10 03:00:12 PM
-tag: old site
+tags:
+  - charity
+  - fitness
+  - medical
 ---
 
 Rachel and I recently accepted the challenge of cycling in the American Diabetes Association's Tour de Cure fund-raising event. We are taking part in this event because we believe in and support the Association's mission: to prevent and cure diabetes and to improve the lives of all people affected by diabetes.
@@ -14,5 +17,5 @@ Both of us reached our goal of $100 apiece. But, you can still donate.
 
 If these links do not send you directly to our personal fund-raising pages, please cut and paste the entire link, from beginning to end, into your Web browser and hit return.
 
-Removed outdated links.--*Ed*.
+Removed outdated links.--_Ed_.
 {: .notice }

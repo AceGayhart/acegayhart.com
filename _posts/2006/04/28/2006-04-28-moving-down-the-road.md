@@ -1,7 +1,8 @@
 ---
 title: Moving Down The Road
 date: 2006-04-28 04:00:07 PM
-tag: old site
+tags:
+  - fitness
 ---
 
 Now that Rachel and I got our bikes back from the shop, we are back to riding. The repair shop did a good job with our bikes. Rachel is able to shift again, and my brakes are much smoother now.

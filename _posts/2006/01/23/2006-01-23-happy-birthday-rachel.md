@@ -1,7 +1,9 @@
 ---
 title: Happy Birthday Rachel
 date: 2006-01-23 07:16:55 PM
-tag: old site
+tags:
+  - birthday
+  - family
 ---
 
 Last Friday, we celebrated Rachel's birthday at Yanni's (our favorite restaurant). There were probably a dozen or so people there. We ate dinner and cake. I did not take many pictures, but I did get a picture of the cake (and another picture of Rachel sticking her finger in the cake).
