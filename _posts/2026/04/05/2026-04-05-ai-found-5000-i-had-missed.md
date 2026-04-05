@@ -2,10 +2,10 @@
 title: AI Found $5,000 I Had Missed
 date: 2026-04-05 04:54:11 PM
 tags:
-  - ai
+  - AI
+  - finance
+  - personal
   - productivity
-  - personal technology
-  - software development
 ---
 
 I have been using AI in my work for a while now. But some of the most practical wins have been personal.

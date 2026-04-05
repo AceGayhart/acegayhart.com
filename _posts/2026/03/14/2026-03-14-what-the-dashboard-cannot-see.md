@@ -2,10 +2,10 @@
 title: What the Dashboard Cannot See
 date: 2026-03-14 04:25:55 PM
 tags:
-  - engineering management
   - AI
+  - engineering management
+  - leadership
   - software development
-  - developer experience
 ---
 
 We recently introduced an AI-powered developer metrics system across all of our engineering teams.

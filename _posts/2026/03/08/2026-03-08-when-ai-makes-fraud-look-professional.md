@@ -2,9 +2,8 @@
 title: When AI Makes Fraud Look Professional
 date: 2026-03-08 01:49:54 PM
 tags:
-  - cybersecurity
   - AI
-  - software development
+  - cybersecurity
   - fraud
 ---
 
