@@ -1,7 +1,9 @@
 ---
 title: Waiting In Chicago
 date: 2005-09-25 08:25:46 PM
-tag: old site
+tags:
+  - travel
+  - vacation
 ---
 
 When we woke up this morning, Rachel and I did not feel like having breakfast (we were still full from last night's dinner). So, we skipped breakfast, took our showers, and got all of our stuff ready to disembark.

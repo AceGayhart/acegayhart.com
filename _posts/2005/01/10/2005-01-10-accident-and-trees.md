@@ -1,7 +1,9 @@
 ---
 title: Accident And Trees
 date: 2005-01-10 05:49:23 PM
-tag: old site
+tags:
+  - driving
+  - weather
 ---
 
 After sliding off the road less than a month ago, on Saturday Rachel managed to duplicate her performance. Fortunately, she was not hurt this time either. However, the truck did not fare so well. The front bumper is shifted a few inches to the right and the left front turn signal does not work. Our insurance company (Farmers) was very easy to deal with in reporting the claim. In fact, I reported the claim online. Within an hour, a claims adjuster gave me a call to get further detail. A couple minutes later, our local representative also gave us a call to make sure no one was hurt.

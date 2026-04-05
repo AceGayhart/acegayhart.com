@@ -1,7 +1,9 @@
 ---
 title: Back From Vacation
 date: 2005-09-26 07:47:36 PM
-tag: old site
+tags:
+  - travel
+  - vacation
 ---
 
 Four train rides, one bus ride, and one car ride later, and Rachel and I are back home. It was a long trip. Maybe next time we go back to the West Coast we will either fly or take a longer vacation.

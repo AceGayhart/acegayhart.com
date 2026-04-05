@@ -1,7 +1,10 @@
 ---
 title: One Last Reunion For The Night
 date: 2005-09-20 01:06:47 AM
-tag: old site
+tags:
+  - family
+  - travel
+  - vacation
 ---
 
 After a brief rest at the hotel, Rachel and I headed to my mom Ellen and step dad Fred's house for dinner. My mom told my younger half-sister Megan that she should come over for dinner, but she did not say why. Megan was definitely surprised to see both Rachel and I.

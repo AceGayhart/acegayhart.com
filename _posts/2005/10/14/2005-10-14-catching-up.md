@@ -1,7 +1,11 @@
 ---
 title: Catching Up
 date: 2005-10-14 08:30:07 PM
-tag: old site
+tags:
+  - blogging
+  - family
+  - medical
+  - programming
 ---
 
 I am still trying to catch up from my recent vacation. I had several pages of material to write for my blog. I had written a number of entries on the trip to the West Coast, but somewhere along the way, I got behind. When I was starting to post entries, I realized that I should take into account from which time zone I am posting.
