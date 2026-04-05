@@ -1,7 +1,10 @@
 ---
 title: Lack Of Entries
 date: 2007-08-23 07:34:53 PM
-tag: old site
+tags:
+  - blogging
+  - medical
+  - personal
 ---
 
 I guess if I actually read my own blog, I would realize that there had not been any entries this month. I am not sure if anyone really reads this on a regular basis, or at least there have been no complaints. At any rate, it is time to catch up.

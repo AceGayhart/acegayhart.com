@@ -1,7 +1,10 @@
 ---
 title: The Long And Winding Road
 date: 2007-06-29 10:30:32 PM
-tag: old site
+tags:
+  - driving
+  - travel
+  - work
 ---
 
 Day 1
@@ -10,7 +13,7 @@ I am continuing my business trip this week in Gratz, PA. This week we left on ti
 
 We arrived around lunch time. We went to our regular lunch place. Unbeknownst to us, the place is closed on Mondays. We ended up eating at the clubhouse near our resort/motel.
 
-A short time later, we arrived at the window plant. With the small injuries I had last week, I was determined to not have any injuries this week. Or, at least if I did have any injuries, I would be better prepared. Well, it did not take too long before I injured myself. This time it was not on a nail or some vinyl. This time, I cut my finger while trying to twist open my bottle of Mt. Dew. *sigh*
+A short time later, we arrived at the window plant. With the small injuries I had last week, I was determined to not have any injuries this week. Or, at least if I did have any injuries, I would be better prepared. Well, it did not take too long before I injured myself. This time it was not on a nail or some vinyl. This time, I cut my finger while trying to twist open my bottle of Mt. Dew. _sigh_
 
 After a nice dinner and a few pitchers of beer, it is nice to be back in the room. One of the guys there must have had a bit too much to drink. I am sitting there drinking my beer. The next thing I know someone his placing a baseball cap on my head. I probably should have walked out with it. I left it on my head for awhile before leaving it on the table.
 
@@ -40,6 +43,6 @@ Day 5
 
 With Friday here, it means a long ride back home. It is about a five-hour drive back to work, plus another hour drive back home. Like the ride out, I was fading in and out of sleep on the ride home. I remember waking up as the van came to an abrupt stop. We were in the number one lane (the leftmost lane) and traffic in front of us was at a dead stop. The next thing I hear is the squealing of brakes behind and to the left of us as a semi comes to a stop beside us. It is a good thing that the semi had an empty trailer. Otherwise, the driver might not have been able to swerve off the road in time to avoid a collision. Fortunately, no one was hurt.
 
-I arrive home, anxious to check my e-mail, etc., and I find that our internet connection is down. *ugh* I was going to get a refreshing glass of cold water (as the water in the resort was only mildly cool). But, I guess there was a water main break somewhere in the city. So, we have to boil our water for the next twenty-four hours. I need a vacation and some sleep.
+I arrive home, anxious to check my e-mail, etc., and I find that our internet connection is down. _ugh_ I was going to get a refreshing glass of cold water (as the water in the resort was only mildly cool). But, I guess there was a water main break somewhere in the city. So, we have to boil our water for the next twenty-four hours. I need a vacation and some sleep.
 
 Tagline for today: "What's the youngest you can die of old age?" - Steven Wright

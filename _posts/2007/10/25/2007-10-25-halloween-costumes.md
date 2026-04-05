@@ -1,7 +1,10 @@
 ---
 title: Halloween Costumes
 date: 2007-10-25 06:38:00 PM
-tag: old site
+tags:
+  - family
+  - holiday
+  - personal
 ---
 
 Rachel and I have been invited to after Halloween party at my boss's house in a few weeks. Costumes are not required, but they are preferred. I am not much of a party person; I generally prefer a smaller group of people. In addition, I don't always enjoy meeting new people. Lastly, I haven't dressed up for Halloween since elementary school.

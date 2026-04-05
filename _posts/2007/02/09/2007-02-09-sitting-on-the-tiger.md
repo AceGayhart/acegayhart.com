@@ -1,7 +1,9 @@
 ---
 title: Sitting On The Tiger
 date: 2007-02-09 10:34:16 PM
-tag: old site
+tags:
+  - family
+  - personal
 ---
 
 Rachel and I went out to lunch today. I had received a gift card to a local restaurant. Unfortunately, they were closed today. But, it was okay. Rachel and I had a good meal at a different restaurant.

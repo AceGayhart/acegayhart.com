@@ -1,7 +1,9 @@
 ---
 title: Keep Your Own Trash
 date: 2007-10-18 07:18:00 PM
-tag: old site
+tags:
+  - finance
+  - pets
 ---
 
 Rachel found some pizza in our back yard. Apparently, the people who live behind us were throwing pizza over into our yard. Our dogs, of course, find the food, eat it, and get sick. I have been tempted to throw the waste back over the fence.

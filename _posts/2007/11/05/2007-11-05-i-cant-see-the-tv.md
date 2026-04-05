@@ -1,7 +1,8 @@
 ---
 title: I Can't See The Tv
 date: 2007-11-05 10:05:00 AM
-tag: old site
+tags:
+  - technology
 ---
 
 I just received the following e-mail from Dell about a TV we had purchased from them a few years ago:
