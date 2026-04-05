@@ -1,10 +1,10 @@
 ---
 title: It's Not a Tumor
 date: 2023-08-18 11:56:19 PM
-tags:
-  - personal
-  - medical
 
+tags:
+  - medical
+  - personal
 ---
 
 A few months ago, I noticed a lump on my chest. While it didn't feel hard, I could still feel it under my skin. I saw a slight discoloration in the area as well.

@@ -1,8 +1,6 @@
 ---
 title: Vacation to Columbus
 date: 2023-07-04 08:32:03 AM
-tags:
-  - vacation
 
 gallery-popcorn-museum:
   - url: /assets/posts/2023-07-04-vacation-to-columbus/popcorn-museum/img_0099.jpg
@@ -217,6 +215,10 @@ gallery-battelle-darby-creek:
     image_path: /assets/posts/2023-07-04-vacation-to-columbus/battelle-darby-creek/img_0201.jpg
   - url: /assets/posts/2023-07-04-vacation-to-columbus/battelle-darby-creek/img_0202.jpg
     image_path: /assets/posts/2023-07-04-vacation-to-columbus/battelle-darby-creek/img_0202.jpg
+tags:
+  - family
+  - travel
+  - vacation
 ---
 
 Last week, my wife and took a vacation to [Columbus, OH](https://en.wikipedia.org/wiki/Columbus,_Ohio). She wanted to see the Tutankhamun exhibit at [COSI](https://cosi.org/). Aside from that, we didn't have concrete plans and ended up visiting random parks and attractions during our stay. I didn't take pictures, but we stopped at the [Wright Brothers Memorial](https://www.nps.gov/daav/planyourvisit/outdooractivities.htm) in Dayton, [The Book Loft of German Village](https://www.bookloft.com/), and the [Stuart Little Household](https://fotospot.com/attractions/ohio/the-stuart-little-household).
@@ -229,7 +231,7 @@ The Wyandot Popcorn Museum is inside the [Marion County Historical Society](http
 
 ## [COSI](https://cosi.org/)
 
-Most of my photos at COSI were of the *Tutankhamnun&mdash;His Tomb and His Treasures* exhibit. But, I took a picture of their [pendulum](https://cosi.org/exhibits/hallway-exhibits#classics) from the second floor and pictures of the dinosaur scupltures outside.
+Most of my photos at COSI were of the _Tutankhamnun&mdash;His Tomb and His Treasures_ exhibit. But, I took a picture of their [pendulum](https://cosi.org/exhibits/hallway-exhibits#classics) from the second floor and pictures of the dinosaur scupltures outside.
 
 {% include gallery id="gallery-cosi" %}
 

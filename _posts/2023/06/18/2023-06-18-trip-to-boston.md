@@ -2,8 +2,9 @@
 title: Trip to Boston
 date: 2023-06-18 12:03:05 AM
 tags:
-    - work
-    - travel
+  - software development
+  - travel
+  - work
 ---
 
 At the end of last month, I added two more states to my visited list: New York and Massachusetts. I was visiting my company's headquarters in Boston.
