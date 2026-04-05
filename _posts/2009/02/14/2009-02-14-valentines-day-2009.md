@@ -1,7 +1,11 @@
 ---
 title: Valentine's Day 2009
 date: 2009-02-14 10:05:00 PM
-tag: old site
+tags:
+  - family
+  - holiday
+  - medical
+  - technology
 ---
 
 Whew! Things have been crazy here. My main computer at home had problems a few weeks ago. I ultimately had to wipe the hard drive and start over. I did not lose any data; I have good backups. However, it took quite a long time to get up back up and in a usable condition. I still do not have all the software reinstalled. But, my current classes are coming to a close. I needed to catch up on all my homework. I am nearly caught up now.
