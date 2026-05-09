@@ -1,6 +1,6 @@
 ---
 title: AI Didn't Write the Manual
-date: 2026-04-17 20:56:35 PM
+date: 2026-04-17 08:56:35 PM
 tags:
   - AI
   - home improvement

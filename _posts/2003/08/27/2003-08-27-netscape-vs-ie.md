@@ -1,6 +1,6 @@
 ---
 title: Netscape vs. IE
-date: 2003-08-27 23:23:48 PM
+date: 2003-08-27 11:23:48 PM
 tags:
   - blogging
   - technology

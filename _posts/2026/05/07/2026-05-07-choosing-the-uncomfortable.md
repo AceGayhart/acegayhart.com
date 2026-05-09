@@ -1,6 +1,6 @@
 ---
 title: Choosing the Uncomfortable
-date: 2026-05-07
+date: 2026-05-07 11:56:47 AM
 tags:
   - engineering management
   - leadership
