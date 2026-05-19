@@ -1,0 +1,28 @@
+---
+permalink: /llms.txt
+layout: null
+sitemap: false
+---
+# {{ site.title }}
+
+> {{ site.description }} Written by {{ site.author.name }} — {{ site.subtitle }} — from {{ site.author.location }}. Topics include engineering leadership, software architecture, education, AI in the workplace, and personal essays.
+
+This file follows the [llms.txt](https://llmstxt.org/) convention to help language models and other automated readers find the most useful starting points on the site.
+
+## Site
+
+- [About]({{ '/about/' | absolute_url }}): Background on the author — a Principal Software Engineer at SmartSense by Digi with 25+ years of experience, and an adjunct instructor at Southern New Hampshire University.
+- [Follow]({{ '/follow/' | absolute_url }}): Where to find {{ site.author.name }} on the social web.
+- [Disclaimer]({{ '/disclaimer/' | absolute_url }}): Editorial scope and limitations — views are personal, not those of any employer or institution.
+
+## Posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | absolute_url }}){% if post.date %} ({{ post.date | date: "%Y-%m-%d" }}){% endif %}: {{ post.excerpt | strip_html | strip_newlines | normalize_whitespace | truncate: 200 }}
+{%- endfor %}
+
+## Optional
+
+- [Atom feed]({{ '/feed.xml' | absolute_url }}): Full-content syndication feed.
+- [Sitemap]({{ '/sitemap.xml' | absolute_url }}): XML sitemap for crawlers.
+- [Tag archive]({{ '/tags/' | absolute_url }}): Posts grouped by tag.
+- [Year archive]({{ '/years/' | absolute_url }}): Posts grouped by year.
