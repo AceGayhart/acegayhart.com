@@ -3,16 +3,13 @@ layout: single
 title: About
 permalink: /about/
 author_profile: true
+last_modified_at: 2026-05-19 06:32:08 PM
 ---
 
-Ace Gayhart is a seasoned Principal Software Engineer at [SmartSense by Digi](https://www.smartsense.co/), with over 25 years of experience in the field. His passion for technology and education complements his expertise in software engineering. He dedicates his spare time to teaching students at [Southern New Hampshire University (SNHU)](https://www.snhu.edu/) in undergraduate and graduate IT programs.
+Ace Gayhart is the Manager of Software Engineering on the Asset Monitoring team at [SmartSense by Digi](https://www.smartsense.co/), where he leads work on IoT sensor monitoring and predictive analytics for customers in healthcare, retail grocery, food service, education, and supply chain. He fell in love with code at eleven, on a Commodore 64, and has been at it ever since. The road from there ran through wireless billing, manufacturing, and higher education IT before landing on IoT, with C# becoming his language of choice along the way.
 
-Ace has earned a Master of Science in Information Systems & Technology Management from Capella University and a Bachelor of Science degree from Kaplan University, further solidifying his knowledge and skills in the industry.
+Teaching has been the parallel thread. Ace serves as an adjunct instructor at [Southern New Hampshire University](https://www.snhu.edu/), where he teaches in the undergraduate and graduate IT programs. He holds a Master of Science in Information Systems and Technology Management from Capella University and a Bachelor of Science from Kaplan University.
 
-This blog serves as a platform for Ace to share his thoughts and insights on various topics. It's important to note that the views and opinions expressed here are solely Ace's own and do not represent those of any people, institutions, or organizations he may be associated with, personally and professionally. The content here is not intended to malign any religion, ethnic group, club, organization, company, or individual.
+This blog is where those threads meet. Posts come from four angles: the engineering manager working through team dynamics and developer experience, the software engineer wrestling with tools and architecture, the teacher who is still very much a learner, and the person at home in Northeast Ohio with his wife Rachel. The strongest posts usually live where two of those overlap. New writing appears roughly every week or two.
 
-Please be aware that this blog may contain forward-looking statements based on Ace's personal opinions and should not be considered financial or investment advice. These statements are subject to risks and uncertainties that may cause actual results to differ materially from those expressed or implied. Readers are advised to conduct their research and consult with a professional financial advisor before making any investment decisions based on the content of this blog.
-
-While Ace doesn't expect to receive many emails, he welcomes your thoughts and inquiries. You can reach out to him at blog [at] acegayhart.com.
-
-Please take a moment to [review the blog's disclaimer](/disclaimer/) for more information.
+The views expressed here are Ace's own and do not represent his employer or any institution he is associated with. For more, see the [disclaimer](/disclaimer/).
